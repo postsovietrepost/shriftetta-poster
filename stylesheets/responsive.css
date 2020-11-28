@@ -1,7 +1,19 @@
 @media all and (max-width: 1680px) {
-  section .ramka2 {width: 1000px; top:80px;}
+  section .ramka2 {width: 1050px; top:80px;}
+  section .ramka1 {top:80px;}
+  section .ramka3 {top:640px;}
+  section .ramka3copy {top:851px;height: 119px;}
+  section .ramka3copy2 {top:640px; height:214px;}
+  section .ramka3copy3 {top:640px;height:214px;}
+  section .smallline1{ width:150px;}
   section .vibration #yell {left:250px;}
 }
 
 @media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
 section .ramka2 {display: none;}
+section .ramka1 {width:840px;}
+section .ramka4 {width:840px;}
+section .ramka1copy {width:840px;}
+section .ramka1copy2 {width:840px;}
+section .smallline9 {width:840px;}
+section .vibration #yell {left:250px;}
