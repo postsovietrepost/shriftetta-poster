@@ -52,12 +52,12 @@ top:5px;
 padding-right: 20px;
 }
 
-#star {
+/* #star {
   width: 262px;
   top:14px;
   left:160px;
   height: 58px;
-}
+} */
 
 .ramka1 {
 position: absolute;
@@ -650,10 +650,9 @@ position: absolute;
 width: 570px;
 height: 84px;
 
-font-family: FixSysC;
 font-style: normal;
-font-weight: 500;
-font-size: 40px;
+font-weight: 400;
+font-size: 22px;
 line-height: 37px;
 
 color: #FFFFFF;
@@ -772,28 +771,360 @@ top: 25px;
 @keyframes e2 {
   0%, 25% {
       left: -0px;
-      -webkit-transform: translateX(-4%);
-      transform: translateX(-4%);
       transform: scale(0.7);
   }
   50%, 100% {
       left: 10px;
-      -webkit-transform: translateX(4%);
       transform: rotateZ(30deg);
-      transform: translateX(4%);
 }
 }
 .e:hover {
   transform: scale(0.5);
+  animation-play-state: paused;
   transform: rotateZ(30deg);
 }
 
 #epng {
   height: 170px;
   width: 174px;
-  top:-40px;
-  margin-left: 15px;
+  top:0px;
+  margin-left: 50px;
 }
+
+
+.t {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/t.png");
+    background-position: -0 top;
+    animation: t2 0.5s infinite;;
+}
+
+@keyframes t2 {
+  from, to { transform: scale(1, 1); }
+  25% { transform: scale(0.9, 1.1); }
+  50% { transform: scale(1.1, 0.9); }
+  75% { transform: scale(0.95, 1.05); }
+}
+
+.t:hover {
+  animation-play-state: paused;
+  opacity: 0;
+}
+
+#tpng {
+height: 268px;
+width: 288px;
+top:-27px;
+margin-left: 0px;
+}
+
+.r {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/r.png");
+    background-position: -0 top;
+    animation:r2 2s ease infinite;
+}
+
+@keyframes r2 {
+    70% { transform:translateY(0%);};
+    80% { transform:translateY(-15%);}
+    90% { transform:translateY(0%); }
+    95% { transform:translateY(-7%); }
+    97% { transform:translateY(0%); }
+    99% { transform:translateY(-3%); }
+    100% { transform:translateY(0); }
+}
+
+.r:hover {
+  animation-play-state: paused;
+}
+
+#rpng {
+height: 396px;
+width: 402px;
+top:-83px;
+right:70px;
+}
+
+.j {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/j.png");
+    background-position: -0 top;
+    animation: j2 2s ease infinite;
+}
+
+@keyframes j2 {
+	0%, 100% {transform: translateX(0);}
+	10%, 30%, 50%, 70%, 90% {transform: translateX(-10px);}
+	20%, 40%, 60%, 80% {transform: translateX(10px);}
+}
+
+.j:hover {
+  opacity: 0;
+}
+
+#jpng {
+height: 651px;
+width: 743px;
+top:-93px;
+left:-70px;
+}
+
+.b {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/b.png");
+    background-position: -0 top;
+    transform-origin: top center;
+  	animation: b2 2s ease infinite;
+}
+
+@keyframes b2 {
+	20% { transform: rotate(15deg); }
+	40% { transform: rotate(-10deg); }
+	60% { transform: rotate(5deg); }
+	80% { transform: rotate(-5deg); }
+	100% { transform: rotate(0deg); }
+}
+
+#bpng {
+height: 327px;
+width: 489px;
+top:10px;
+left:30px;
+}
+
+.f {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/f.png");
+    background-position: -0 top;
+    transform-origin: top center;
+animation: f2 3s ease-in-out infinite;
+}
+
+@keyframes f2 {
+  40%, 60% { transform: rotate(-20deg) }
+  50% { transform: rotate(20deg)  }
+  70% { transform: rotate(0deg)  }
+  100% { transform: scale(1); }
+}
+
+.f:hover {
+  animation-play-state: paused;
+}
+
+#fpng {
+height: 583px;
+width: 630px;
+top:-100px;
+left:-100px;
+}
+
+.o {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/o.png");
+    background-position: -0 top;
+    transform-origin: top center;
+    animation-direction: alternate-reverse;
+    animation: o2 2s ease-in-out infinite;
+}
+
+@keyframes o2 {
+  0% { transform: translateX(0%); }
+  15% { transform: translateX(-15%) rotate(-5deg); }
+  30% { transform: translateX(10%) rotate(3deg); }
+  45% { transform: translateX(-15%) rotate(-3deg); }
+  60% { transform: translateX(10%) rotate(2deg); }
+  75% { transform: translateX(-5%) rotate(-1deg); }
+  100% { transform: translateX(0%); }
+}
+
+.o:hover {
+opacity: 0;
+}
+
+#opng {
+height: 517px;
+width: 571px;
+top:-110px;
+left:-60px;
+}
+
+.sh {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/sh.png");
+    background-position: -0 top;
+    animation: sh2 2s linear infinite;
+}
+
+@keyframes sh2 {
+	0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+	40% {transform: translateY(-110px);}
+	60% {transform: translateY(-20px);}
+}
+
+.sh:hover {
+animation-play-state: paused;
+}
+
+#shpng {
+height: 275px;
+width: 428px;
+top:120px;
+left:-40px;
+}
+
+.tr {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/tr.png");
+    background-position: -0 top;
+    animation: t2 0.5s infinite;;
+
+}
+
+.tr:hover {
+  opacity: 0;
+}
+
+
+#trpng {
+height: 226px;
+width: 258px;
+top:-60px;
+left:70px;
+}
+
+.rt {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/rt.png");
+    background-position: -0 top;
+  animation:r2 2s ease infinite;
+}
+
+#rtpng {
+height: 279px;
+width: 292px;
+top:-55px;
+left:-30px;
+}
+
+.y {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/y.png");
+    background-position: -0 top;
+  animation: vibration 0.3s steps(1) alternate infinite;
+}
+
+.y:hover {
+animation-play-state: paused;
+}
+
+#ypng {
+height: 209px;
+width: 266px;
+top:-9px;
+margin-left:10px;
+}
+
+.eb {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    background: url("images/eb.png");
+    background-position: -0 top;
+animation: eb2 1s steps(1) infinite;
+}
+
+@keyframes eb2 {
+  0%, 25% {
+      left: -0px;
+      transform: scale(0.7);
+  }
+  50%, 100% {
+      left: 10px;
+      transform: rotateZ(-30deg);
+}
+}
+.eb:hover {
+  animation-play-state: paused;
+  opacity: 0;
+}
+
+#ebpng {
+height: 135px;
+width: 142px;
+top:-15px;
+margin-left:100px;
+}
+
+a[href*="intent"] {
+    display:inline-block;
+    margin-top: 0.4em;
+  }
+
+  .rating {
+			width: 230px;
+			margin-left:20px;
+      margin-top:20px;
+			font-size: 46px;
+			overflow:hidden;
+      font-family: "Segoe WP","Segoe UI", Helvetica, Arial, sans-serif;
+		}
+.rating input {
+  float: right;
+  opacity: 0;
+  position: absolute;
+}
+		.rating a,
+    .rating label {
+			float:right;
+			color: #aaa;
+			text-decoration: none;
+			-webkit-transition: color .4s;
+			-moz-transition: color .4s;
+			-o-transition: color .4s;
+			transition: color .4s;
+		}
+.rating label:hover ~ label,
+.rating input:focus ~ label,
+.rating label:hover,
+		.rating a:hover,
+		.rating a:hover ~ a,
+		.rating a:focus,
+		.rating a:focus ~ a		{
+			color: gold;
+			cursor: pointer;
+		}
 
 
     </style>
@@ -842,8 +1173,16 @@ top: 25px;
 <div class="smallline10">
   <section>
   <div class="ramka5">
+
+    <div class="rating">
+    <input name="stars" id="e5" type="radio"></a><label for="e5">☆</label>
+    <input name="stars" id="e4" type="radio"></a><label for="e4">☆</label>
+    <input name="stars" id="e3" type="radio"></a><label for="e3">☆</label>
+    <input name="stars" id="e2" type="radio"></a><label for="e2">☆</label>
+    <input name="stars" id="e1" type="radio"></a><label for="e1">☆</label>
+    	</div>
       <p class="ss2" id="mi">{ /5}</p></div>
-      <img id="star" src="images/star4.png" alt="">
+      <!-- <img id="star" src="images/star4.png" alt=""> -->
   </section>
 </div>
 <div class="escho1">
@@ -876,47 +1215,69 @@ top: 25px;
 </section>
 
 <section>
-  <div class="smallline1" id="rod"></div>
+  <div class="smallline1" id="rod">
+<div class="t" id="tpng" ></div>
+  </div>
 </section>
 
 <section>
-<div class="smallline2copy"></div>
+<div class="smallline2copy">
+<div class="r" id="rpng" ></div>
+</div>
 </section>
 
 <section>
-<div class="smallline3" id="don"></div>
+<div class="smallline3" id="don">
+<div class="j" id="jpng" ></div>
+</div>
 </section>
 
 <section>
-<div class="smallline3copy"></div>
+<div class="smallline3copy">
+<div class="b" id="bpng" ></div>
+</div>
 </section>
 
 <section>
-<div class="smallline4" id="pop"></div>
+<div class="smallline4" id="pop">
+<div class="f" id="fpng" ></div>
+</div>
 </section>
 
 <section>
-<div class="smallline4" id="por"></div>
+<div class="smallline4" id="por">
+<div class="sh" id="shpng" ></div>
+</div>
 </section>
 
 <section>
-<div class="qvadratcenter"></div>
+<div class="qvadratcenter">
+<div class="o" id="opng"></div>
+</div>
 </section>
 
 <section>
-<div class="qvadratnizl"></div>
+<div class="qvadratnizl">
+<div class="tr" id="trpng"></div>
+</div>
 </section>
 
 <section>
-<div class="qvadratnizl2"></div>
+<div class="qvadratnizl2">
+<div class="rt" id="rtpng"></div>
+</div>
 </section>
 
 <section>
-<div class="qvadratnizl3"></div>
+<div class="qvadratnizl3">
+<div class="y" id="ypng"></div>
+</div>
 </section>
 
 <section>
-<div class="qvadratnizr"></div>
+<div class="qvadratnizr">
+<div class="eb" id="ebpng"></div>
+</div>
 </section>
 
 </div>
