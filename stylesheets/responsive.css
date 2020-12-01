@@ -1,13 +1,131 @@
-@media all and (max-width: 1680px) {
-  section .ramka2 {width: 1050px; top:80px;}
-  section .ramka1 {top:80px;}
-  section .ramka3 {top:640px;}
-  section .ramka3copy {top:851px;height: 119px;}
-  section .ramka3copy2 {top:640px; height:214px;}
-  section .ramka3copy3 {top:640px;height:214px;}
+@media all and (max-width: 1792px) {}
+
+@media all and (min-device-width: 1050px) and (max-width: 1680px) {
+  section .ramka2 {width: 1137px; top:80px; left: 508px;}
+  section .ramka1 {top:80px; width:470px; left:40px;}
+  section .ramka3 {top:640px; width:470px}
+  section .ramka1copy {left:-3px; width:470px;}
+  section .ramka3 {left:40px;}
+  section .ramka4 {left:40px;}
+  section .ramka5 {width:333px;}
+  section .ramka3copy {top:851px;height: 119px; width:470px; left:40px;}
+  section .ramka3copy2 {top:640px; height:214px; left:40px; width:235px;}
+  section .ramka3copy3 {top:640px;height:214px; width:240px; left:271px;}
+  section .smallqvadrat2 {left:-3px; width:140px;}
   section .smallline1{ width:150px;}
-  section .vibration #yell {left:250px;}
+  section .rop {top:80px; width:305px; left:507px;}
+  section .vibration {margin-left:0px;}
+  section .corobka1 {top:80px; left:810px; width:278px;}
+  section .e {margin-left:35px;}
+  section .corobka2 {top:80px; left:1085px; width:285px;}
+  section .t {margin-left:-15px;}
+  section .corobka3 {top:80px; left: 1368px; width:276px;}
+  section .corobka4 {top:233px; width:580px; left:508px;}
+  section .j {margin-left: -13px;}
+  section .corobka5 {top:233px; left:1085px; width: 560px;}
+  section .b {margin-left: -16px;}
+  section .corobka6 {top:554px; left:508px; width:360px;}
+  section .f {margin-left: -10px;}
+  section .corobka7 {top:554px;left:865px;}
+  section .corobka8 {top:554px; left:1299px; width:347px;}
+  section .sh {margin-left: 0px;}
+  section .corobka9 {top:851px; left:508px; width:360px;}
+  section .corobka10 {top:851px; left:865px;}
+  section .corobka11 {top:851px; left:1092px;}
+  section .corobka12 {top:851px; left:1299px; width:347px;}
+  section .special {left:368px; font-size: 9px;}
+  section .ofbilet {font-size: 9px; left:3px;}
+  section .ss {left:77px; font-size: 25px; top:73px}
+  section .drama {left:55px; font-size:12px; top:120px;}
+  section .nazvanie {left:16px;}
+  section .dvad {left:400px;} section .nol {font-size:10px; left:270px;}
+  section .qvadrat1 {width:470px; left:-3px;} section .qvadrat2 {width:470px; left:-3px;} section .qvadrat3 {width:470px; left:-3px;}
+  section .bukvi {left:170px; font-size: 20px;}
+  section .pyat {font-size: 20px;} section .kirill {font-size: 20px;}
+  section .january {left:140px;}
+  section .smallline {left:120px;} section .procherksm2 {left:110px} section .procherkb3 {left:158px;} section .smallline2 {left:115px;} section .procherksm5 {left:105px;}
+  section .cena {left:30px;} section .trik {left:23px;} section .zal {left:157px;} section .treti {left:170px;} section .procherkb4 {left:155px;} section .tariff {left:145px;} section .premium {left:133px; font-size:12.5px;}
+  section .procherksm4 {display:none;} section .mesto {left:30px;} .procherksm6 {top:98px;} section .eleven {left:47px;}
+  section .smallline10 {width:470px;}
+ }
+
+  @media all and (min-device-width: 900px) and (max-device-width: 1440px){
+section .ramka1 {left:30px; width:493px;}
+section .ramka1copy {width:493px;}
+section .qvadrat1 {width:493px;}
+section .qvadrat2 {width:493px;}
+section .qvadrat3 {width:493px;}
+section .ramka5 {width:355px;}
+section .smallline10 {width:493px;}
+section .ramka3copy2 {left:30px; width:240px;}
+section .ramka3 {left:30px; width:493px;}
+section .ramka3copy3 {left:268px; width:255px;}
+section .ramka3copy {width:492px; left:30px;}
+section .ramka4 {left:30px; width:493px;}
+section .ramka2 {left:520px; width:1160px;}
+section .rop {left:520px; width:303px;}
+section .b {margin-left: 0px;}
+section .corobka4 {left:520px; width:590px;}
+section .corobka6 {left:520px;}
+section .corobka9 {left:520px;}
+section .corobka1 {left:820px; width:290px;}
+section .corobka2 {left:1106px; width:300px;}
+section .corobka3 {left:1402px;}
+section .corobka5 {left:1105px; width:575px;}
+section .corobka7 {left:878px; width:460px;}
+section .corobka8 {left:1334px; width:345px;}
+section .corobka10 {left:878px;}
+section .corobka11 {left:1105px; width:233px;}
+section .corobka12 {width:345px; left:1334px;}
+section .tr {margin-left: -10px;}
+section .vibration {margin-left: 11px;}
+section .e {margin-left: 50px;}
+section .ofbilet {font-size: 10px; top:15px; }
+section .special {font-size:10px; top:15px; left:380px;}
+section .dvad {margin-left:20px;}
+section .ss {left:90px;} section .drama {left:65px;}
+section .director {font-size: 12px;}
+section .premier {font-size: 12px;} section .cast {font-size:12px;} section .rate {font-size: 12px;} section .nol {font-size: 11px; left:290px;}
+section .procherkb4 {left:160px;} section .procherkb2 {left:25px;}
+section .procherksm3 {display: none;} section .procherksm6 {display:none;}
+section .mesto {margin-left:-9px;}
+section .procherksm {display:none;} section .procherkb {left:30px;} section .eleven {left:40px;}
+section .trik {left:25px;} section .smallline {left:115px;} section .procherksm2 {margin-left:-6px;}
+section .premium {left:140px; font-size:12px;}
+ }
+
+@media all and (min-device-width: 768px) and (max-device-width: 1366px) {
+section div {overflow: hidden; }
+ section .ramka4 {top:-7px;}
+ section .ramka1 {top:40px;}
+ section .ramka3 {top:600px;} section .ramka3copy2 {top:600px;} section .ramka3copy3 {top:600px;} section .ramka3copy {top:810px;}
+  section .corobka3 {display: none;} section .r {display: none;} section .corobka8 {display: none;} section .sh {display:none;} section .corobka12 {display: none;} section .eb {display: none;}
+  section .ramka2 {width:900px; top:40px; height:820px;}
+  section .rop {top:40px;}
+  section .corobka1 {top:40px;} section .corobka2 {top:40px;}
+  section .corobka5 {display: none;}
+
 }
+
+@media all and (min-device-width: 800px) and (max-device-width: 1280px) {
+  section .ramka1 {width:404px; height:680px; top:80px; }
+  section .ramka2 {width:878px; height:680px; top:80px; left:432px;}
+  section .ramka4 {width:400px; top:20px;}
+  section .ramka1copy {width:404px; height: 120px;} section .qvadrat1 {width:404px; top:114px; height:80px;} section .smalllqvadrat {height:80px;} section .smallqvadrat2 {height:80px;} section .smallqvadrat4 {height:80px; top:365px;}
+  section .qvadrat2 {width:404px; top:191px; height:80px;}   section .qvadrat3 {width:404px; top:268px; height:100px;} section .smallqvadrat3 {top:268px; height:100px;} section .smallline10 {top:365px; width:404px; height:80px;}
+  section .ramka5 {width:267px; height:80px;}
+   section .ramka3copy {width:404px; top:640px;}
+   section .ramka3copy3
+    section .ramka3copy2
+
+
+ section .rop {display: none;} section .corobka2 {display: none;} section .corobka1 {display: none;} section .corobka7 {display: none;} section .corobka6 {display: none;}
+
+
+
+}
+
+
 
 @media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
 section .ramka2 {display: none;}
@@ -16,4 +134,5 @@ section .ramka4 {width:840px;}
 section .ramka1copy {width:840px;}
 section .ramka1copy2 {width:840px;}
 section .smallline9 {width:840px;}
-section .vibration #yell {left:250px;}
+section .rop {top:800px; left:30px;}
+section .vibration {left:250px; width:300px;}
