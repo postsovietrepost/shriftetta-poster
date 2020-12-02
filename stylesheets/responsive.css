@@ -109,7 +109,7 @@ section div {overflow: hidden; }
 
 }
 
-@media only screen and (max-device-width: 1280px) {
+@media all and (max-device-width: 1280px) {
   body {padding-right: 50px;}
   section .ramka1 {width:404px; height:680px; top:80px; }
   section .ramka2 {width:678px; height:480px; top:80px; left:432px;}
