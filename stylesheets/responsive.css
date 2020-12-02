@@ -1,7 +1,7 @@
 @media all and (max-width: 1792px) {}
 
 
-@media only screen and (min-device-width: 1050px) and (max-width: 1680px) {
+@media screen and (max-divece-width: 1680px) {
   section .ramka2 {width: 1137px; top:80px; left: 508px;}
   section .ramka1 {top:80px; width:470px; left:40px;}
   section .ramka3 {top:640px; width:470px}
@@ -50,7 +50,7 @@
   section .smallline10 {width:470px;}
  }
 
-  @media only screen and (min-device-width: 900px) and (max-device-width: 1440px){
+  @media screen and (max-device-width: 1440px){
 section .ramka1 {left:30px; width:493px;}
 section .ramka1copy {width:493px;}
 section .qvadrat1 {width:493px;}
