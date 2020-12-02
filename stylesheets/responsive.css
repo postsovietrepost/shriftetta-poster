@@ -49,7 +49,7 @@
   section .smallline10 {width:470px;}
  }
 
-  @media only screen and (min-device-width: 900px) and (max-device-width: 1440px){
+  @media all and (min-device-width: 900px) and (max-device-width: 1440px){
 section .ramka1 {left:30px; width:493px;}
 section .ramka1copy {width:493px;}
 section .qvadrat1 {width:493px;}
