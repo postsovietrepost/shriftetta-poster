@@ -1,7 +1,10 @@
 @media all and (max-width: 1792px) {}
 
 
-@media only screen and (min-device-width: 1050px) and (max-divece-width: 1680px) {
+@media all and (max-width: 1680px) and (min-width: 1050px) {
+  article > * { width: calc(100% - 40px); }
+  body {min-width: 1050px;}
+  section div {max-width: 1680px;}
   section .ramka2 {width: 1137px; top:80px; left: 508px;}
   section .ramka1 {top:80px; width:470px; left:40px;}
   section .ramka3 {top:640px; width:470px}
