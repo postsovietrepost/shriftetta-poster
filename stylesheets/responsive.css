@@ -1,7 +1,7 @@
 @media all and (max-width: 1792px) {}
 
 
-@media all and (max-width: 1680px) and (min-width: 1050px) {
+@media only screen and (max-width: 1680px) and (min-width: 1050px) {
   article > * { width: calc(100% - 40px); }
   body {min-width: 1050px;}
   section div {max-width: 1680px;}
@@ -53,7 +53,7 @@
   section .smallline10 {width:470px;}
  }
 
-@media all and (min-width: 900px) and (max-width: 1440px) and (orientation:landscape) {
+@media screen and (max-width: 1440px) and (min-width: 900px) {
 section .ramka1 {left:30px; width:493px;}
 section .ramka1copy {width:493px;}
 section .qvadrat1 {width:493px;}
