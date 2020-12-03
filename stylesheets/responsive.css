@@ -2,7 +2,7 @@
 @media screen and (max-width: 1680px) and (min-width: 1050px) {
   article > * { width: calc(100% - 40px); }
   body {min-width: 1050px;}
-  section .ramka2 {width: 1180px; top:100px; left:-400px;}
+  section .ramka2 {width: 900px; top:100px; left:-300px;}
   section .ramka1 {top:100px; width:491px; }
   section .ramka3 {top:641px; width:470px; right:1701px;}
   section .ramka1copy {left:-3px; width:490px;}
