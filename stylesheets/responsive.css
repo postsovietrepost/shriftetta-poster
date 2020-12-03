@@ -2,7 +2,7 @@
 @media screen and (max-width: 1680px) and (min-width: 1050px) {
   article > * { width: calc(100% - 40px); }
   body {min-width: 1050px;}
-  section .ramka2 {width: 1180px; top:100px; left:-3px;}
+  section .ramka2 {width: 1180px; top:100px; left:-70px;}
   section .ramka1 {top:100px; width:491px; }
   section .ramka3 {top:641px; width:470px; right:1701px;}
   section .ramka1copy {left:-3px; width:490px;}
@@ -18,21 +18,21 @@
   section .vibration {margin-left:0px;}
 div .corobka1 {left:300px; width:300px;}
   section .e {margin-left:35px;}
-  section .corobka2 {left:596px; width:307px;}
+  section .corobka2 {left:266px; width:307px;}
   section .t {margin-left:-15px;}
   div .corobka3 {left: 900px; width:276px;}
   div .corobka4 { width:602px;}
   section .j {margin-left: -13px;}
-  div .corobka5 {left:596px; width: 581px;}
+  div .corobka5 {left:296px; width: 581px;}
   section .b {margin-left:13px;}
   section .f {margin-left: -10px;}
-
+div .corobka7 {left:290px;}
   section .corobka8 {width:345px;}
   section .sh {margin-left: 0px;}
   section .corobka9 {width:374px;}
   section .corobka10 {left:368px; width:230px;}
   section .corobka11 {}
-  section .corobka12 {width:345px;}
+  section .corobka12 {width:345px; left:290px;}
   section .special {left:368px; font-size: 9px;}
   section .ofbilet {font-size: 9px; left:3px;}
   section .ss {left:77px; font-size: 25px; top:73px}
