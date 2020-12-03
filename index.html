@@ -17,18 +17,20 @@ body {
   width: 100%;
   margin-left: 0px;
   overflow:hidden;
-  display: flex;
+  display: inline-flex;
   background-color: black;
   position: relative;
 }
 
 section {
   display: flex;
+  /* position: relative; */
   justify-content: space-between;
 }
 section div {
   width: 100%;
   height: 100%;
+  position: relative;
   /* display:  block; */
 }
 section p {
@@ -48,19 +50,35 @@ top:5px;
 padding-right: 20px;
 }
 
+.ramkaleft {
+  width:564px;
+  height:110px;
+left:130px;
+  /* top:0px; */
+  position:relative;
+}
+
+.ramkalefttop {
+  position: relative;
+  width: 511px;
+  height: 46px;
+  /* left:130px; */
+  top:10px;
+}
+
 .ramka1 {
-position: absolute;
-width: 510px;
+position: relative;
+width: 511px;
 height: 564px;
-left: 60px;
+margin-left: -600px;
 top: 60px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .ramka1copy {
-position: absolute;
-width: 510px;
+position: relative;
+width: 509px;
 height: 156px;
 left: -2px;
 top: -3px;
@@ -68,32 +86,31 @@ border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
-
 .qvadrat2{
-position: absolute;
-width: 510px;
+position: relative;
+width: 509px;
 height: 102px;
 left:-2px;
-top: 249px;
+top: -6px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .qvadrat1 {
-  position: absolute;
-  width: 510px;
+  position: relative;
+  width: 509px;
   height: 102px;
   left:-2px;
-  top: 151px;
+  top: -6px;
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
 }
 
 .ramka2 {
-position: absolute;
-width: 1158px;
+position: relative;
+width: 1200px;
 height: 890px;
-left: 568px;
+left: 38px;
 top:60px;
 margin-right:50px;
 border: 3px solid #FFFFFF;
@@ -101,62 +118,62 @@ box-sizing: border-box;
 }
 
 .ramka3 {
-position: absolute;
-width: 510px;
-height: 330px;
-left: 60px;
-top: 620px;
+position: relative;
+width: 511px;
+height: 329px;
+right:1720px;
+top: 621px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .ramka3copy {
-position: absolute;
+position: relative;
 width: 510px;
-height: 119px;
-left: 60px;
-top: 831px;
+height: 120px;
+right: 2230px;
+top: 829px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .ramka3copy2 {
-position: absolute;
+position: relative;
 width: 261px;
-height: 214px;
-left: 60px;
-top: 620px;
+height: 211px;
+right: 260px;
+bottom: 530px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .ramka3copy3 {
-position: absolute;
-width: 253px;
-height: 214px;
-left: 317px;
-top: 620px;
+position: relative;
+width: 252px;
+height: 211px;
+left: 254px;
+bottom: 211px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .ramka4 {
-position: absolute;
+position: relative;
 width: 511px;
 height: 46px;
-left:60px;
+left:40px;
 top:5px;
 }
 
 .ramka5 {
-position: absolute;
-width: 372px;
-height: 90px;
+position: relative;
+width: 371px;
+height: 92px;
 left: 135px;
-top: -4px;
+top:-133px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
@@ -173,55 +190,55 @@ top: 830px;
 }
 
 .corobka2 {
-position: absolute;
+position: relative;
 width: 307px;
 height: 156px;
-left: 1163px;
-top: 60px;
+left: 593px;
+top: -315px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .corobka1 {
-  position: absolute;
+  position: relative;
   width: 301px;
   height: 156px;
-  left:865px;
-  top: 60px;
+  left:295px;
+  top: -159px;
 
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
 }
 
 .rop {
-  position: absolute;
+  position: relative;
   width: 300px;
   height: 156px;
-  left:567px;
-  top: 60px;
+  left:-3px;
+  top: -3px;
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
 }
 
 .corobka3 {
-position: absolute;
-width: 259px;
+position: relative;
+width: 300px;
 height: 156px;
-left: 1467px;
-top: 60px;
+left: 897px;
+top: -471px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
-.smallline2 {
-position: absolute;
+/* .smallline2 {
+position: relative;
 width: 1500px;
 height: 0px;
-left: 49px;
+left: 40px;
 top: 331px;
 border: 2px solid #FFFFFF;
-}
+} */
 
 #o {
 left:0px;
@@ -239,97 +256,97 @@ top:768px;
 }
 
 .corobka4 {
-position: absolute;
+position: relative;
 width: 599px;
-height: 324px;
-left:567px;
-top: 213px;
+height: 322px;
+left:-3px;
+top: -474px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .corobka5 {
-  position: absolute;
-  width: 563px;
-  height: 324px;
-  left: 1163px;
-  top: 213px;
+  position: relative;
+  width: 604px;
+  height: 322px;
+  left: 593px;
+  bottom: 796px;
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
 }
 
 .corobka6 {
-  position: absolute;
+  position: relative;
   width: 373.5px;
   height: 300px;
-  left: 567px;
-  top: 534px;
+  left: -3px;
+  bottom: 799px;
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
 }
 
 .corobka7 {
-position: absolute;
-width: 436px;
+position: relative;
+width: 467px;
 height: 300px;
-left: 938px;
-top: 534px;
+left: 368px;
+bottom: 1099px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .corobka8 {
-  position: absolute;
-  width: 355px;
+  position: relative;
+  width: 365px;
   height: 300px;
-  left: 1371px;
-  top: 534px;
+  left: 832px;
+  bottom: 1399px;
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
 }
 
 .corobka9 {
-position: absolute;
+position: relative;
 width: 374px;
-height: 119px;
-left: 567px;
-top: 831px;
+height: 120px;
+left: -3px;
+bottom:1402px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .corobka10 {
-position: absolute;
+position: relative;
 width: 230px;
-height: 119px;
-left:938px;
-top: 831px;
+height: 120px;
+left:368px;
+bottom: 1522px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .corobka11 {
-position: absolute;
-width: 209px;
-height: 119px;
-left:1165px;
-top: 831px;
+position: relative;
+width: 240px;
+height: 120px;
+left:595px;
+bottom: 1642px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .corobka12{
-position: absolute;
-width: 355px;
-height: 119px;
-left: 1371px;
-top: 831px;
+position: relative;
+width: 365px;
+height: 120px;
+left: 832px;
+bottom:1762px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .smallline6 {
-position: absolute;
+position: relative;
 width: 0px;
 height: 210px;
 left: 317px;
@@ -338,25 +355,25 @@ border: 2px solid #FFFFFF;
 }
 
 .smallline {
-position: absolute;
+position: relative;
 width: 0px;
-height: 105px;
+height: 99px;
 left: 128px;
-top: 103px;
+top: 106px;
 border: 2px solid #FFFFFF;
 }
 
 .smallline2 {
-position: absolute;
+position: relative;
 width: 0px;
 height: 105px;
-left: 124px;
+left: 120px;
 top: 103px;
 border: 2px solid #FFFFFF;
 }
 
 .smalllqvadrat {
-position: absolute;
+position: relative;
 width: 140px;
 height: 102px;
 left: -3px;
@@ -366,8 +383,8 @@ box-sizing: border-box;
 }
 
 .smallqvadrat2 {
-  position: absolute;
-  width: 140px;
+  position: relative;
+  width: 141px;
   height: 102px;
   left: -3px;
   top: -3px;
@@ -376,135 +393,135 @@ box-sizing: border-box;
 }
 
 .qvadrat3 {
-position: absolute;
+position: relative;
 width: 510px;
 height: 124px;
-left: -2px;
-top: 349px;
+left: -4px;
+top: -6px;
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .smallline10 {
-position: absolute;
-width: 510px;
-height: 90px;
+position: relative;
+width: 508px;
+height: 89px;
 left: -3px;
-top: 471px;
+top: -131px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .smallqvadrat3 {
-position: absolute;
+position: relative;
 width: 141px;
-height: 125px;
+height: 124px;
 left: -3px;
-top: 349px;
+top: -130px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
 .smallqvadrat4 {
-position: absolute;
+position: relative;
 width: 141px;
 height: 90px;
 left: -3px;
-top: 470px;
+top: -224px;
 
 border: 3px solid #FFFFFF;
 box-sizing: border-box;
 }
 
-.procherksm {
-position: absolute;
+/* .procherksm {
+position: relative;
 width: 25px;
 height: 0px;
 left: 0px;
 top: 100px;
 border: 2px solid #FFFFFF;
-}
+} */
 
 .procherksm2 {
-position: absolute;
+position: relative;
 width: 25px;
 height: 0px;
-left: 117px;
-top: 100px;;
+left:117px;
+bottom:202px;;
 border: 2px solid #FFFFFF;
 }
 
-.procherksm3 {
-position: absolute;
+/* .procherksm3 {
+position: relative;
 width: 25px;
 height: 0px;
 left: 230px;
 top: 100px;
 border: 2px solid #FFFFFF;
-}
+} */
 
-.procherksm4 {
-position: absolute;
+/* .procherksm4 {
+position: relative;
 width: 20px;
 height: 0px;
 left: 230px;
 top: 100px;
 border: 2px solid #FFFFFF;
-}
+} */
 
 .procherksm5 {
-position: absolute;
+position: relative;
 width: 25px;
 height: 0px;
-left: 114px;
-top: 100px;
+left: 110px;
+bottom: 212px;
 border: 2px solid #FFFFFF;
 }
 
-.procherksm6 {
-position: absolute;
+/* .procherksm6 {
+position: relative;
 width: 25px;
 height: 0px;
 left: 0px;
-top: 100px;
+top: -6px;
 border: 2px solid #FFFFFF;
-}
+} */
 
 .procherkb {
-position: absolute;
+position: relative;
 width: 46px;
 height: 0px;
-left: 45px;
-top: 100px;
+left: 37px;
+bottom: 206px;
 border: 2px solid #FFFFFF;
 }
 
 .procherkb2 {
-position: absolute;
+position: relative;
 width: 46px;
 height: 0px;
-left: 45px;
-top: 100px;
+left: 30px;
+bottom: 208px;
 border: 2px solid #FFFFFF;
 }
 
 .procherkb3 {
-position: absolute;
+position: relative;
 width: 46px;
 height: 0px;
-left: 170px;
-top: 100px;
+left: 173px;
+bottom: 211px;
 border: 2px solid #FFFFFF;
 }
 
 .procherkb4 {
-position: absolute;
+position: relative;
 width: 46px;
 height: 0px;
-left: 165px;
-top: 100px;
+left: 170px;
+bottom: 216px;
 border: 2px solid #FFFFFF;
 }
 
@@ -649,7 +666,7 @@ color: #FFFFFF;
     position: absolute;
     width: 100px;
     height: 23px;
-    left: 30px;
+    left: 24px;
     top: 130px;
     font-weight: 400;
     font-size: 13.5px;
@@ -661,7 +678,7 @@ color: #FFFFFF;
   position: absolute;
   width: 100px;
   height: 23px;
-  left: 47px;
+  left: 43px;
   top: 175px;
   font-weight: 400;
   font-size: 13.5px;
@@ -816,7 +833,7 @@ color: #FFFFFF;
   position: absolute;
   width: 100px;
   height: 15px;
-  left:405px;
+  left:402px;
   top: 3px;
   font-style: normal;
   font-weight: 400;
@@ -1170,7 +1187,7 @@ animation-play-state: paused;
   height: 165px;
   width: 182px;
   top:-9px;
-  margin-left:10px;
+  margin-left:25px;
     display: block;
     position: relative;
     background: url("images/y.png");
@@ -1257,41 +1274,39 @@ a[href*="intent"] {
 <p class="special">специальный</p>
 </div>
 </section>
-<section>
+
+
+<section class="ramkaleft">
 <div class="ramka1">
-<section>
+
 <div class="ramka1copy">
 <p class="ss">ШРИФТОВЫЙ САД</p>
 <p class="drama">драма с элементами комедии (шоу)</p>
 <p class="nazvanie">название</p>
 <p class="dvad">{2021}</p>
 </div>
-<section>
+
 <div class="qvadrat2">
 <p class="pyat">15/01/2021</p>
 <div class="smalllqvadrat">
 <p class="premier">премьера</p>
 </div>
-</section>
-<section>
+
 <div class="qvadrat1">
 <p class="kirill">Кирилл Ица</p>
 <div class="smallqvadrat2">
 <p class="director">режиссер</p>
 </div>
-</section>
-<section>
+
 <div class="qvadrat3">
 <p class="bukvi">Буква Н,Точка, <br> Сестры Е</p>
 </div>
-<section>
+
 <div class="smallqvadrat3">
 <p class="cast">каст</p>
 </div>
-</section>
-<section>
-<div class="smallline10">
-  <section>
+
+<!-- <div class="smallline10"> -->
   <div class="ramka5">
 
     <div class="rating">
@@ -1301,109 +1316,74 @@ a[href*="intent"] {
     <input name="stars" id="e2" type="radio"></a><label for="e2">☆</label>
     <input name="stars" id="e1" type="radio"></a><label for="e1">☆</label>
     	</div>
+
       <p class="nol">{ /5}</p></div>
-  </section>
-</div>
-<div class="smallqvadrat4">
-</div>
-<div class="smallqvadrat4">
-<p class="rate">рейтинг</p>
-</div>
-</section>
-</section>
-</section>
-</section>
+      <div class="smallqvadrat4">
+      <p class="rate">рейтинг</p>
+      </div>
 </section>
 
-<section>
-<div class="ramka2"></div>
-</section>
-
-<section>
-<div class="rop">
-  <div class="vibration"></div>
-</div>
-</section>
-
-<section>
-<div class="corobka1">
-  <div class="e"></div>
-</div>
-</section>
-
-<section>
-  <div class="corobka2">
-<div class="t"></div>
+<section class="ramkaright">
+<div class="ramka2">
+  <div class="rop">
+    <div class="vibration"></div>
   </div>
-</section>
+  <div class="corobka1">
+    <div class="e"></div>
+  </div>
 
-<section>
-<div class="corobka3">
-<div class="r"></div>
-</div>
-</section>
+    <div class="corobka2">
+  <div class="t"></div>
+    </div>
 
-<section>
-<div class="corobka4">
-<div class="j"></div>
-</div>
-</section>
+  <div class="corobka3">
+  <div class="r"></div>
+  </div>
 
-<section>
-<div class="corobka5">
-<div class="b"></div>
-</div>
-</section>
+  <div class="corobka4">
+  <div class="j"></div>
+  </div>
 
-<section>
-<div class="corobka6">
-<div class="f"></div>
-</div>
-</section>
+  <div class="corobka5">
+  <div class="b"></div>
+  </div>
 
-<section>
-<div class="corobka7">
-<div class="o"></div>
-</div>
-</section>
+  <div class="corobka6">
+  <div class="f"></div>
+  </div>
 
-<section>
-<div class="corobka8">
-<div class="sh"></div>
-</div>
-</section>
+  <div class="corobka7">
+  <div class="o"></div>
+  </div>
 
-<section>
-<div class="corobka9">
-<div class="tr"></div>
-</div>
-</section>
+  <div class="corobka8">
+  <div class="sh"></div>
+  </div>
 
-<section>
-<div class="corobka10">
-<div class="rt"</div>
-</div>
-</section>
+  <div class="corobka9">
+  <div class="tr"></div>
+  </div>
 
-<section>
-<div class="corobka11">
-<div class="y"></div>
-</div>
-</section>
+  <div class="corobka10">
+  <div class="rt"></div>
+  </div>
 
-<section>
-<div class="corobka12">
-<div class="eb"></div>
-</div>
+  <div class="corobka11">
+  <div class="y"></div>
+  </div>
+
+  <div class="corobka12">
+  <div class="eb"></div>
+  </div>
+
 </section>
 
 <section>
 <div class="ramka3"></div>
-<section>
+
 <div class="ramka3copy">
 <img class="codeimg" src="images/code.svg" alt="">
-</section>
-<section>
+
 <div class="ramka3copy3">
 <p class="vrema">время</p>
 <p class="tridcat">15:30</p>
@@ -1417,8 +1397,7 @@ a[href*="intent"] {
 <div class="procherksm5"></div>
 <div class="procherkb4"></div>
 <div class="procherksm4"></div>
-</section>
-<section>
+
 <div class="ramka3copy2">
   <p class="data">дата</p>
   <p class="january">20/01</p>
@@ -1432,7 +1411,6 @@ a[href*="intent"] {
     <div class="procherkb"></div>
     <div class="procherkb3"></div>
     <div class="procherksm3"></div>
-</section>
 </section>
 
   </body>
