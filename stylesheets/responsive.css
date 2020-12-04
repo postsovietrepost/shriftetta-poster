@@ -79,7 +79,7 @@ section .ramka3copy {width:400px; right:1007px;top: 119px;height: 108px;}
 section .ramka4 {left:30px; width:493px; top:10px;}
 section .ramka2 {left:-142px; width:968px; height: 772px; top:70px;}
 section .rop {width:240px; height: 135px;}
-section .b {margin-left: 0px;}
+section .b {margin-left: -2px; background-size: cover; width:429px; height:200px;}
 section .corobka4 { width:479px;top: -410px;height: 267px;}
 section .j {background-size: cover; width:589px;left: -38px;top: -60px;}
 section .corobka6 {bottom:679px;width: 280px; height: 271px;}
@@ -93,9 +93,17 @@ section .corobka8 {left:683px; width:280px;margin-top: 178px;height: 271px;}
 section .corobka10 {margin-top: 12px;left: 274px;height: 108px;width: 202px;}
 section .corobka11 {width:213px;left: 473px;margin-top: 12px;height: 108px;}
 section .corobka12 {width:282px; left:683px; margin-top: 12px;height: 108px;}
-section .tr {margin-left: -10px;}
-section .vibration {margin-left: 11px;}
-section .e {margin-left: 50px;}
+section .o {margin-left: 13px;background-size:cover; width: 501px; height: 366px; margin-top: 22px;}
+section .f {margin-left: 6px;background-size:cover; width: 501px; height: 366px; margin-top: 22px;}
+section .tr {margin-left: -24px;background-size:cover; width: 195px; height: 180px; margin-top: 13px;}
+section .rt {margin-left: -7px;background-size:cover; width: 294px; height: 193px; margin-top: -9px;}
+section .y {margin-left: 18px;background-size:cover; width: 150px; height: 155px; margin-top: -1px;}
+section .vibration {margin-left: 6px;background-size:cover; width: 214px; height: 179px; margin-top: -1px;}
+section .t {background-size:cover; width: 232px; height: 256px; margin-top: -13px;margin-left: -17px;}
+section .r {background-size:cover; width: 220px; height: 332px; margin-top: 16px;margin-left: 23px;}
+section .eb {background-size:cover; width: 100px; height: 98px; margin-top: 14px;margin-left: 82px;}
+section .e {background-size: cover;width: 150px;margin-left: 41px;height: 122px;margin-top: -2px;}
+  section .sh {margin-top:-3px; background-size: cover; width:375px; height: 141px;margin-left: -13px;}
 section .ofbilet {font-size: 10px; top:15px; }
 section .special {font-size:10px; top:15px; left:380px;}
 section .dvad {margin-left:20px;}
