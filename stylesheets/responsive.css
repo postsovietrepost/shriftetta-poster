@@ -52,29 +52,35 @@ div .corobka7 {left:368px; width:457px;}
  }
 
 @media screen and (max-width: 1440px) and (min-width: 900px) {
-section .ramka1 {left:10px; width:420px; height: 500px; top:70px;}
-section .ramka1copy {width:420px;}
-section .qvadrat1 {width:420px;}
-section .qvadrat2 {width:420px;}
-section .qvadrat3 {width:420px;}
-section .ramka5 {width:283px;}
+section .ramka1 {left:10px; width:400px; height: 500px; top:70px;}
+section .ramka1copy {width:400px; height: 135px;}
+section .qvadrat1 {width:400px; height: 82px;top: -6px;}
+section .qvadrat2 {width:400px; height: 82px;}
+section .qvadrat3 {width:400px;top: -7px;  height: 120px;}
+section .smalllqvadrat {height:82px;}
+section .smallqvadrat2 {height:82px;}
+section .smallqvadrat3 {height:120px;}
+section .smallqvadrat4 {display:none;}
+section .codeimg {top:-4px;}
+section .ramka5 {width:283px; display: none;}
 section .smallline10 {width:493px;}
-section .ramka3copy2 {right:1100px; width:240px;}
-section .ramka3 {right:1007px; width:400px; top:542px;}
-section .ramka3copy3 {right:863px; width:255px;}
-section .ramka3copy {width:400px; right:1100px;}
+section .ramka3copy2 {right:1007px; width:240px;  top: 292px;height: 170px;}
+section .ramka3 {right:1007px; width:400px; top:567px; height: 275px;}
+section .ramka3copy3 {right:863px; width:255px;display: none;}
+section .ramka3copy {width:400px; right:1007px;top: 289px;height: 108px;}
 section .ramka4 {left:30px; width:493px; top:10px;}
 section .ramka2 {left:-142px; width:968px; height: 772px; top:70px;}
-section .rop {width:303px;}
+section .rop {width:240px; height: 135px;}
 section .b {margin-left: 0px;}
-section .corobka4 { width:590px;}
-section .corobka6 {}
-section .corobka9 {margin-top: -117px;}
-section .corobka1 {left:297px; width:290px;}
-section .corobka2 {left:584px; width:300px;}
-section .corobka3 {left:680px;}
-section .corobka5 {left:300px; width:575px;}
-section .corobka7 {width:460px;}
+section .corobka4 { width:479px;top: -410px; display: none}
+section .j {background-size: cover; width:400px;}
+section .corobka6 {display: none;}
+section .corobka9 {}
+section .corobka1 {left:234px; width:242px; top:-138px; height: 135px;}
+section .corobka2 {left:473px; width:245px;top: -272px;height: 134px;}
+section .corobka3 {left:715px;top: -407px;height: 135px;width: 250px;}
+section .corobka5 {left:300px; width:575px; display: none}
+section .corobka7 {width:460px; display: none;}
 section .corobka8 {left:500px; width:332px;}
 section .corobka10 {}
 section .corobka11 {width:233px;}
