@@ -52,33 +52,33 @@ div .corobka7 {left:368px; width:457px;}
  }
 
 @media screen and (max-width: 1440px) and (min-width: 900px) {
-section .ramka1 {left:30px; width:400px; height: 500px;}
+section .ramka1 {left:30px; width:400px; height: 500px; top:70px;}
 section .ramka1copy {width:493px;}
 section .qvadrat1 {width:493px;}
 section .qvadrat2 {width:493px;}
 section .qvadrat3 {width:493px;}
 section .ramka5 {width:355px;}
 section .smallline10 {width:493px;}
-section .ramka3copy2 {left:30px; width:240px;}
+section .ramka3copy2 {right:1100px; width:240px;}
 section .ramka3 {right:1100px; width:400px; top:597px;}
-section .ramka3copy3 {left:268px; width:255px;}
+section .ramka3copy3 {right:863px; width:255px;}
 section .ramka3copy {width:400px; right:1100px;}
 section .ramka4 {left:30px; width:493px; top:10px;}
-section .ramka2 {left:-43px; width:1160px; height: 826px;} 
+section .ramka2 {left:-43px; width:1160px; height: 826px;}
 section .rop {width:303px;}
 section .b {margin-left: 0px;}
-section .corobka4 {left:520px; width:590px;}
-section .corobka6 {left:520px;}
-section .corobka9 {left:520px;}
+section .corobka4 { width:590px;}
+section .corobka6 {}
+section .corobka9 {}
 section .corobka1 {left:297px; width:290px;}
 section .corobka2 {left:584px; width:300px;}
 section .corobka3 {left:881px;}
-section .corobka5 {left:1105px; width:575px;}
-section .corobka7 {left:878px; width:460px;}
-section .corobka8 {left:1334px; width:345px;}
-section .corobka10 {left:878px;}
-section .corobka11 {left:1105px; width:233px;}
-section .corobka12 {width:345px; left:1334px;}
+section .corobka5 {left:584px; width:575px;}
+section .corobka7 {width:460px;}
+section .corobka8 {left:825px; width:332px;}
+section .corobka10 {}
+section .corobka11 {width:233px;}
+section .corobka12 {width:345px; left:825px;}
 section .tr {margin-left: -10px;}
 section .vibration {margin-left: 11px;}
 section .e {margin-left: 50px;}
