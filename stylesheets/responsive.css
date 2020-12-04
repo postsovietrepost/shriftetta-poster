@@ -64,7 +64,7 @@ section .ramka3 {right:1100px; width:400px; top:597px;}
 section .ramka3copy3 {right:863px; width:255px;}
 section .ramka3copy {width:400px; right:1100px;}
 section .ramka4 {left:30px; width:493px; top:10px;}
-section .ramka2 {left:-43px; width:1160px; height: 826px;}
+section .ramka2 {left:-43px; width:960px; height: 826px; top:70px;}
 section .rop {width:303px;}
 section .b {margin-left: 0px;}
 section .corobka4 { width:590px;}
@@ -72,13 +72,13 @@ section .corobka6 {}
 section .corobka9 {}
 section .corobka1 {left:297px; width:290px;}
 section .corobka2 {left:584px; width:300px;}
-section .corobka3 {left:881px;}
-section .corobka5 {left:584px; width:575px;}
+section .corobka3 {left:680px;}
+section .corobka5 {left:300px; width:575px;}
 section .corobka7 {width:460px;}
-section .corobka8 {left:825px; width:332px;}
+section .corobka8 {left:500px; width:332px;}
 section .corobka10 {}
 section .corobka11 {width:233px;}
-section .corobka12 {width:345px; left:825px;}
+section .corobka12 {width:345px; left:555px;}
 section .tr {margin-left: -10px;}
 section .vibration {margin-left: 11px;}
 section .e {margin-left: 50px;}
