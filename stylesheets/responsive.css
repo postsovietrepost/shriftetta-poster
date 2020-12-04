@@ -123,15 +123,15 @@ section div {overflow: hidden; }
   section .ramka4 {width:400px; top:20px;}
   section .ramka3 {top:504px; width:332px; height:246px;right: 915px;}
   section .ramka1copy {width:332px; height: 120px;}
-  section .qvadrat1 {width:332px;height:80px;}
-   section .smalllqvadrat {height:80px;}
-   section .smallqvadrat2 {height:80px;}
-   section .smallqvadrat4 {height:80px; margin-top: 24px;}
-  section .qvadrat2 {width:332px; height:80px;}
-  section .qvadrat3 {width:332px; height:90px;}
-  section .smallqvadrat3 {height:90px;margin-top: 20px;width: 140px;}
+  section .qvadrat1 {width:332px;height:81px;}
+   section .smalllqvadrat {height:60px;}
+   section .smallqvadrat2 {height:81px;}
+   section .smallqvadrat4 {height:80px; margin-top: 24px;width: 140px;}
+  section .qvadrat2 {width:332px; height:60px; }
+  section .qvadrat3 {width:332px; height:108px; margin-top:1px;}
+  section .smallqvadrat3 {height:108px;margin-top: 2px;width: 140px;}
   section .smallline10 {top:365px; width:404px; height:80px;}
-  section .ramka5 {width:194px; height:80px;}
+  section .ramka5 {width:194px; height:80px;margin-top: 0px;left: 134px;}
    section .ramka3copy {width:332px; top:111px; height:105px;right: 915px;}
    section .ramka3copy3 {width:164px; height:144px;right: 747px;top: 258px;}
     section .ramka3copy2 {top:114px; width:171px; height:144px;right: 915px;}
@@ -140,18 +140,19 @@ section div {overflow: hidden; }
     section .rop {height:120px; width:294px; }
     section .corobka1 {top:-123px; height:120px; left:288px; width:296px; }
      section .corobka2 {top:-243px; height:120px; left:581px; width:286px; }
-    section .corobka4 {margin-top:164px; height:254px; width:440px;} section .j {background-size: cover; height:100px; width:100px; left:131px; top:197px;}
-    section .corobka5 {left:433px; margin-top:12px; height:254px; width:434px;}
+    section .corobka4 {margin-top:164px; height:243px; width:440px;} section .j {background-size: cover; height:100px; width:100px; left:131px; top:197px;}
+    section .corobka5 {left:434px; margin-top:23px; height:243px; width:433px;}
     section .b {background-size: cover; height:100px; width:150px;}
-
-     section .corobka6 {left:431px; top:448px; height:215px; width:440px; display: none;} section .f {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
-    section .corobka7 {left:869px; top:448px; height:215px; width:440px; display: none;} section .o {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
-    section .corobka9 {top:660px; height: 100px; left:431px; width:300px; display: none;} section .tr {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
-    section .corobka10 {top:660px; height: 100px; left:729px; width:300px; display:none;} section .rt {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
-    section .corobka12 {top:660px; height: 100px; left:1027px; width:282px; display:none;} section .eb {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
-
-    section .corobka8 {display:none;} section .corobka3 {display: none;}
-
+     section .corobka6 {height:221px; width:440px;} section .f {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
+    section .corobka7 {left:434px; bottom:900px; height:221px; width:432px;} section .o {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
+    section .corobka9 {bottom:903px; height: 105px; width:294px;} section .tr {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
+    section .corobka10 {bottom:1020px; height: 105px; left:288px; width:300px; } section .rt {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
+    section .corobka12 {top:660px; height: 100px; left:1027px; width:282px;} section .eb {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
+section .corobka11 {width:282px;bottom: 1137px;left: 585px;  height: 105px;}
+    section .corobka8 {width:300px; display:none;} section .corobka3 {display: none;}
+    section .procherkb {margin-top:186px;}
+section .procherkb2 {margin-top:186px;}
+section .procherksm2 {margin-top:186px;}
 
 
 
