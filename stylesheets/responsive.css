@@ -119,7 +119,7 @@ section div {overflow: hidden; }
 
 @media screen and (max-width: 1280px) and (min-width: 800px) {
   section .ramka1 {width:332px; height:680px; left:103px; }
-  section .ramka2 {width:950px; height:680px; top:70px;margin-right: -28px;}
+  section .ramka2 {width:890px; height:680px; top:70px;margin-right: 32px;}
   section .ramka4 {width:400px; top:20px;}
   section .ramka3 {top:504px; width:332px; height:246px;right: 843px;}
   section .ramka1copy {width:332px; height: 120px;}
