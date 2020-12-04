@@ -119,22 +119,22 @@ section div {overflow: hidden; }
 
 @media screen and (max-width: 1280px) and (min-width: 800px) {
   section .ramka1 {width:332px; height:680px; left:103px; }
-  section .ramka2 {width:750px; height:680px; top:70px;margin-right: 172px;}
+  section .ramka2 {width:950px; height:680px; top:70px;margin-right: -28px;}
   section .ramka4 {width:400px; top:20px;}
-  section .ramka3 {top:524px; width:404px; height:235px;}
+  section .ramka3 {top:504px; width:332px; height:246px;right: 843px;}
   section .ramka1copy {width:332px; height: 120px;}
   section .qvadrat1 {width:332px;height:80px;}
    section .smalllqvadrat {height:80px;}
    section .smallqvadrat2 {height:80px;}
-   section .smallqvadrat4 {height:80px; top:365px;}
+   section .smallqvadrat4 {height:80px; margin-top: 24px;}
   section .qvadrat2 {width:332px; height:80px;}
-  section .qvadrat3 {width:404px; top:268px; height:100px;}
-  section .smallqvadrat3 {height:100px;margin-top: 11px;width: 140px;} 
+  section .qvadrat3 {width:332px; height:90px;}
+  section .smallqvadrat3 {height:90px;margin-top: 20px;width: 140px;}
   section .smallline10 {top:365px; width:404px; height:80px;}
-  section .ramka5 {width:267px; height:80px;}
+  section .ramka5 {width:194px; height:80px;}
    section .ramka3copy {width:404px; top:660px; height:100px;}
-   section .ramka3copy3 {width:204px; height:138px;}
-    section .ramka3copy2 {top:525px; width:204px; height:138px;}
+   section .ramka3copy3 {width:164px; height:138px;right: 675px;top: 258px;}
+    section .ramka3copy2 {top:120px; width:171px; height:138px;right: 843px;}
     section .codeimg {top:-5px;}
     section .vibration {background-size: cover; width:100px; height:100px;} section .rop {top:80px; height:120px; left:431px; width:295px; display: none;}
     section .corobka1 {top:80px; height:120px; left:723px; width:296px; display:none;} section .corobka2 {top:80px; height:120px; left:1016px; width:294px; display: none;}
