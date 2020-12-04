@@ -56,18 +56,18 @@ section .ramka1 {left:10px; width:400px; height: 500px; top:70px;}
 section .ramka1copy {width:400px; height: 135px;}
 section .qvadrat1 {width:400px; height: 82px;top: -6px;}
 section .qvadrat2 {width:400px; height: 82px;}
-section .qvadrat3 {width:400px;top: -7px;  height: 120px;}
+section .qvadrat3 {width:400px;top: -7px;  height: 110px;}
 section .smalllqvadrat {height:82px;}
 section .smallqvadrat2 {height:82px;}
-section .smallqvadrat3 {height:120px;}
-section .smallqvadrat4 {display:none;}
+section .smallqvadrat3 {height:110px;top: -117px;}
+section .smallqvadrat4 {top:-224px;height: 104px;}
 section .codeimg {top:-4px;}
-section .ramka5 {width:283px; display: none;}
+section .ramka5 {width:262px;top: -120px;height: 104px;}
 section .smallline10 {width:493px;}
-section .ramka3copy2 {right:1007px; width:240px;  top: 292px;height: 170px;}
+section .ramka3copy2 {right:1007px; width: 202px;  top: 122px;height: 170px;}
 section .ramka3 {right:1007px; width:400px; top:567px; height: 275px;}
-section .ramka3copy3 {right:863px; width:255px;display: none;}
-section .ramka3copy {width:400px; right:1007px;top: 289px;height: 108px;}
+section .ramka3copy3 {right:808px; width:202px; top:292px; height: 170px;}
+section .ramka3copy {width:400px; right:1007px;top: 119px;height: 108px;}
 section .ramka4 {left:30px; width:493px; top:10px;}
 section .ramka2 {left:-142px; width:968px; height: 772px; top:70px;}
 section .rop {width:240px; height: 135px;}
