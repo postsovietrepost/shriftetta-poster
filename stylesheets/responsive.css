@@ -119,9 +119,9 @@ section div {overflow: hidden; }
 
 @media screen and (max-width: 1280px) and (min-width: 800px) {
   section .ramka1 {width:332px; height:680px; left:103px; }
-  section .ramka2 {width:890px; height:680px; top:70px;margin-right: 32px;}
+  section .ramka2 {width:870px; height:680px; top:70px;margin-right: 124px;}
   section .ramka4 {width:400px; top:20px;}
-  section .ramka3 {top:504px; width:332px; height:246px;right: 843px;}
+  section .ramka3 {top:504px; width:332px; height:246px;right: 915px;}
   section .ramka1copy {width:332px; height: 120px;}
   section .qvadrat1 {width:332px;height:80px;}
    section .smalllqvadrat {height:80px;}
@@ -132,14 +132,16 @@ section div {overflow: hidden; }
   section .smallqvadrat3 {height:90px;margin-top: 20px;width: 140px;}
   section .smallline10 {top:365px; width:404px; height:80px;}
   section .ramka5 {width:194px; height:80px;}
-   section .ramka3copy {width:404px; top:660px; height:100px;}
-   section .ramka3copy3 {width:164px; height:138px;right: 675px;top: 258px;}
-    section .ramka3copy2 {top:120px; width:171px; height:138px;right: 843px;}
+   section .ramka3copy {width:332px; top:111px; height:105px;right: 915px;}
+   section .ramka3copy3 {width:164px; height:144px;right: 747px;top: 258px;}
+    section .ramka3copy2 {top:114px; width:171px; height:144px;right: 915px;}
     section .codeimg {top:-5px;}
-    section .vibration {background-size: cover; width:100px; height:100px;} section .rop {top:80px; height:120px; left:431px; width:295px; display: none;}
-    section .corobka1 {top:80px; height:120px; left:723px; width:296px; display:none;} section .corobka2 {top:80px; height:120px; left:1016px; width:294px; display: none;}
-    section .corobka4 {left:431px; top:197px; height:254px; width:440px; display:none;} section .j {background-size: cover; height:100px; width:100px; left:131px; top:197px;}
-    section .corobka5 {left:869px; top:197px; height:254px; width:440px; display: none;}
+    section .vibration {background-size: cover; width:100px; height:100px;}
+    section .rop {height:120px; width:294px; }
+    section .corobka1 {top:-123px; height:120px; left:288px; width:296px; }
+     section .corobka2 {top:-243px; height:120px; left:581px; width:286px; }
+    section .corobka4 {margin-top:164px; height:254px; width:440px;} section .j {background-size: cover; height:100px; width:100px; left:131px; top:197px;}
+    section .corobka5 {left:433px; margin-top:12px; height:254px; width:434px;}
     section .b {background-size: cover; height:100px; width:150px;}
 
      section .corobka6 {left:431px; top:448px; height:215px; width:440px; display: none;} section .f {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
