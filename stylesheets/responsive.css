@@ -116,9 +116,10 @@ section div {overflow: hidden; }
 
 }
 
-@media all and (min-width: 1280px) and (max-width: 800px) {
-  section .ramka1 {width:404px; height:680px; top:80px; }
-  section .ramka2 {width:678px; height:480px; top:80px; left:432px;}
+
+@media screen and (max-width: 1280px) and (min-width: 800px) {
+  section .ramka1 {width:404px; height:680px; left:103px; }
+  section .ramka2 {width:678px; height:480px; top:70px;margin-right: 172px;}
   section .ramka4 {width:400px; top:20px;}
   section .ramka3 {top:524px; width:404px; height:235px;}
   section .ramka1copy {width:404px; height: 120px;} section .qvadrat1 {width:404px; top:114px; height:80px;} section .smalllqvadrat {height:80px;} section .smallqvadrat2 {height:80px;} section .smallqvadrat4 {height:80px; top:365px;}
