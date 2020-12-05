@@ -142,8 +142,11 @@ section .tariff {top: 106px;left: 119px; font-size: 11px;}
 @media screen and (min-width: 768px) and (max-width: 1366px) {
  section .ramka4 {top:-7px;}
  section .ramka1 {top:40px;}
- section .ramka3 {top:600px;} section .ramka3copy2 {top:600px;} section .ramka3copy3 {top:600px;} section .ramka3copy {top:810px;}
-  section .ramka2 {width:900px; top:40px; height:640px;}
+ section .ramka3 {top:537px;right: 933px;width: 393px;height: 193px;}
+  section .ramka3copy2 {top:600px;} section .ramka3copy3 {top:600px;}
+ section .ramka3copy {top:-43px;right: 933px;width: 393px;}
+}
+  section .ramka2 {width:900px; top:40px; height:690px;}
   section .rop {top:40px;}
   section .corobka1 {top:40px;}
   section .corobka2 {top:40px;}
