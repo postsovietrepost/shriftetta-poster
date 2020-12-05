@@ -148,7 +148,6 @@ section .tariff {top: 106px;left: 119px; font-size: 11px;}
   section .ramka3copy3 {top:240px;right: 741px;height: 192px;}
  section .ramka3copy {top:44px;right: 940px;width: 401px;}
   section .ramka2 {width:900px; top:40px; height:690px;}
-  section .rop {top:40px;}
   section .corobka1 {top:40px;}
   section .corobka2 {top:40px;}
   section .codeimg {top: -1px;}
@@ -174,16 +173,17 @@ section .corobka3 {display: none;}
 section .corobka8 {display: none;}
 section .corobka12 {display: none;}
 
-section .corobka1 {display: none;}
-section .corobka2 {display: none;}
-section .corobka4 {display: none;}
-section .corobka5 {display: none;}
-section .corobka6 {display: none;}
-section .corobka7 {display: none;}
-section .corobka9 {display: none;}
-section .corobka10 {display: none;}
-section .corobka11 {display: none;}
-section .rop {display: none;}
+section .corobka1 {top: -126px;height: 123px;left: 300px;width: 300px;}
+section .corobka2 {top: -249px;height: 123px;left: 597px;width: 300px;}
+section .corobka4 {top: -252px;height: 275px;width: 470px;}
+section .corobka5 {top: -527px;width: 433px;height: 275px;left: 464px;}
+section .b {width: 370px; height: 232px;margin-left: -5px;}
+section .corobka6 {top: -529px;height: 192px;width: 470px;}
+section .corobka7 {bottom: 722px;left: 464px;width: 433px;height: 192px;}
+section .corobka9 {bottom: 724px;width: 305px;}
+section .corobka10 {margin-top: 690px;left: 299px;width: 300px;}
+section .corobka11 {left: 596px;width: 300px;}
+section .rop {top: -3px;height: 123px;width: 305px;}
 
 /* text */
 section .ofbilet {left: -2px;}
@@ -212,10 +212,10 @@ section .rating {top:-10px;left: -33px;}
   section .qvadrat1 {width:332px;height:81px;}
    section .smalllqvadrat {height:60px;}
    section .smallqvadrat2 {height:81px;}
-   section .smallqvadrat4 {height:80px; margin-top: 24px;width: 140px;}
+   section .smallqvadrat4 {height:80px; margin-top: -16px;width: 140px;}
   section .qvadrat2 {width:332px; height:60px; }
   section .qvadrat3 {width:332px; height:108px; margin-top:1px;}
-  section .smallqvadrat3 {height:108px;margin-top: 2px;width: 140px;}
+  section .smallqvadrat3 {height:108px;margin-top: -17px;width: 140px;}
   section .smallline10 {top:365px; width:404px; height:80px;}
   section .ramka5 {width:194px; height:80px;margin-top: 0px;left: 134px;}
    section .ramka3copy {width:332px; top:111px; height:105px;right: 915px;}
@@ -224,15 +224,15 @@ section .rating {top:-10px;left: -33px;}
     section .codeimg {top:-5px;}
     section .rop {height:120px; width:294px; top: -3px;}
     section .corobka1 {top:-123px; height:120px; left:288px; width:296px; }
-     section .corobka2 {top:-243px; height:120px; left:581px; width:286px; }
-    section .corobka4 {margin-top:164px; height:243px; width:440px;}
-    section .corobka5 {left:434px; margin-top:23px; height:243px; width:433px;}
-     section .corobka6 {height:221px; width:440px;}
-    section .corobka7 {left:434px; bottom:900px; height:221px; width:432px;}
-    section .corobka9 {bottom:903px; height: 105px; width:294px;}
-    section .corobka10 {bottom:1020px; height: 105px; left:288px; width:300px; }
+     section .corobka2 {top: -246px; height:120px; left:581px; width:286px; }
+    section .corobka4 {top:-246px; height:243px; width:440px;}
+    section .corobka5 {left:434px;top: -489px; height:243px; width:433px;}
+     section .corobka6 {height:220px; width:440px;top: -492px;}
+    section .corobka7 {left:434px; bottom: 712px; height:220px; width:432px;}
+    section .corobka9 {bottom:715px; height: 106px; width:294px;}
+    section .corobka10 {margin-top: 701px; height: 106px; left:288px; width:300px; }
     section .corobka12 {top:660px; height: 100px; left:1027px; width:282px;}
-section .corobka11 {width:282px;bottom: 1137px;left: 585px;  height: 105px;}
+section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
     section .corobka8 {width:300px; display:none;} section .corobka3 {display: none;}
   section .procherkb {top:15px;left: 20px;}
   section .procherkb3 {top:12px; left: 118px;}
