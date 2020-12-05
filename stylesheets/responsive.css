@@ -141,19 +141,65 @@ section .tariff {top: 106px;left: 119px; font-size: 11px;}
 
 @media screen and (min-width: 768px) and (max-width: 1366px) {
  section .ramka4 {top:-7px;}
- section .ramka1 {top:40px;}
- section .ramka3 {top:537px;right: 933px;width: 393px;height: 193px;}
-  section .ramka3copy2 {top:600px;} section .ramka3copy3 {top:600px;}
- section .ramka3copy {top:-43px;right: 933px;width: 393px;}
+ section .ramka1 {top:40px; height: 395px;left: 2px;width: 401px;}
+ section .ramka3 {top:432px;right: 940px;width: 401px;height: 193px;}
+ section .ramka5 {top: -101px; height:64px;left: 134px;width: 263px;}
+  section .ramka3copy2 {top:47px;right: 940px;height: 193px;}
+  section .ramka3copy3 {top:240px;right: 741px;height: 192px;}
+ section .ramka3copy {top:44px;right: 940px;width: 401px;}
   section .ramka2 {width:900px; top:40px; height:690px;}
   section .rop {top:40px;}
   section .corobka1 {top:40px;}
   section .corobka2 {top:40px;}
-
+  section .codeimg {top: -1px;}
+  section .ramka1copy {height: 123px;}
+  section .qvadrat2 {height: 64px;}
+  section .smalllqvadrat {height: 64px;}
+  section .qvadrat1 {height:64px;}
+  section .smallqvadrat2 {height: 64px;}
+  section .qvadrat3 {height: 92px;top: -6px;}
+  section .smallqvadrat3 {height: 92px;top: -98px;width: 140px;}
+  section .smallqvadrat4 {height:64px;top: -165px;width: 140px;}
+  section .nol {display: none;}
+  section .smallline {height: 102px;}
+  section .smallline2 {height: 102px;}
+  section .procherkb {top: -21px;}
+  section .procherkb2 {top: -18px;}
+  section .procherkb3 {top: -25px;}
+  section .procherkb4 {top: -27px;}
+  section .procherksm2 {top: -17px;}
+  section .procherksm5 {top: -22px;left: 82px;}
 /* animation */
 section .corobka3 {display: none;}
 section .corobka8 {display: none;}
 section .corobka12 {display: none;}
+
+section .corobka1 {display: none;}
+section .corobka2 {display: none;}
+section .corobka4 {display: none;}
+section .corobka5 {display: none;}
+section .corobka6 {display: none;}
+section .corobka7 {display: none;}
+section .corobka9 {display: none;}
+section .corobka10 {display: none;}
+section .corobka11 {display: none;}
+section .rop {display: none;}
+
+/* text */
+section .ofbilet {left: -2px;}
+section .special {left: 305px;}
+section .drama {top: 95px;left: 47px;}
+section .ss {font-size: 22px;left: 60px;}
+section .premier {top:26px;}
+section .director {top:26px;}
+section .cast {top:26px;}
+section .rate {top:26px;}
+section .pyat {top:13px;font-size: 15px;}
+section .kirill {top:11px;font-size: 15px;}
+section .bukvi {top:11px;font-size: 15px;}
+section .rating {top:-10px;left: -33px;}
+
+
 }
 
 
