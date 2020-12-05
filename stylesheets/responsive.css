@@ -173,25 +173,69 @@ section div {overflow: hidden; }
    section .ramka3copy3 {width:164px; height:144px;right: 747px;top: 258px;}
     section .ramka3copy2 {top:114px; width:171px; height:144px;right: 915px;}
     section .codeimg {top:-5px;}
-    section .vibration {background-size: cover; width:100px; height:100px;}
     section .rop {height:120px; width:294px; }
     section .corobka1 {top:-123px; height:120px; left:288px; width:296px; }
      section .corobka2 {top:-243px; height:120px; left:581px; width:286px; }
-    section .corobka4 {margin-top:164px; height:243px; width:440px;} section .j {background-size: cover; height:100px; width:100px; left:131px; top:197px;}
+    section .corobka4 {margin-top:164px; height:243px; width:440px;}
     section .corobka5 {left:434px; margin-top:23px; height:243px; width:433px;}
-    section .b {background-size: cover; height:100px; width:150px;}
-     section .corobka6 {height:221px; width:440px;} section .f {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
-    section .corobka7 {left:434px; bottom:900px; height:221px; width:432px;} section .o {background-size: cover; height:100px; width:150px; top:120px; left:131px;}
-    section .corobka9 {bottom:903px; height: 105px; width:294px;} section .tr {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
-    section .corobka10 {bottom:1020px; height: 105px; left:288px; width:300px; } section .rt {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
-    section .corobka12 {top:660px; height: 100px; left:1027px; width:282px;} section .eb {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
+     section .corobka6 {height:221px; width:440px;}
+    section .corobka7 {left:434px; bottom:900px; height:221px; width:432px;}
+    section .corobka9 {bottom:903px; height: 105px; width:294px;}
+    section .corobka10 {bottom:1020px; height: 105px; left:288px; width:300px; }
+    section .corobka12 {top:660px; height: 100px; left:1027px; width:282px;}
 section .corobka11 {width:282px;bottom: 1137px;left: 585px;  height: 105px;}
     section .corobka8 {width:300px; display:none;} section .corobka3 {display: none;}
-    section .procherkb {margin-top:186px;}
-section .procherkb2 {margin-top:186px;}
-section .procherksm2 {margin-top:186px;}
+  section .procherkb {top:15px;left: 20px;}
+  section .procherkb3 {top:12px; left: 118px;}
+    section .procherkb2 {top:20px;left: 17px;}
+    section .procherksm2 {top:19px;left: 74px;}
+    section .smallline {left: 85px;height: 60px;top: 79px;}
+    section .smallline2 {left: 75px;height: 60px;top: 79px;}
+    section .procherksm5 {top:15px;left: 65px;}
+    section .procherkb4 {top:11px; left: 108px;}
+}
 
+/* animation */
+section .eb {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
+section .vibration {background-size: cover; width:154px; height:157px;margin-left: 44px;}
+section .j {background-size: cover; height:459px; width:483px; margin-left:-9px; top:-45px;}
+section .t {width: 244px; height:150px;left: 28px;}
+section .b {background-size: cover; height:248px; width:377px;margin-left: -6px;}
+section .e {width: 125px; height:105px;margin-left: 74px;top: 5px;}
+section .rt {background-size: cover; height:181px; width:244px; top:-35px; margin-left:51px;}
+section .tr {background-size: cover; height:146px; width:183px; top:-53px; left:88px;}
+section .o {background-size: cover; height:395px; width:384px; top:-113px; left:3px;}
+section .f {background-size: cover; height:386px; width:318px; top:-81px; left:1px;}
+section .y {background-size: cover; height:124px; width:165px; top:-8px; margin-left:53px;}
 
+/* text */
+section .ofbilet {font-size: 6.5px;}
+section .special {font-size: 6.5px; left: 262px;}
+section .nazvanie {font-size: 8px;}
+section .dvad {font-size:8px; left:254px;}
+section .ss {font-size: 19px;left: 44px;top: 56px;}
+section .drama {font-size: 8px;left: 42px;top: 90px;}
+section .pyat {font-size: 13px;top: 11px;left: 162px;}
+section .premier {font-size: 9px;top: 23px;}
+section .director {font-size: 9px;}
+section .kirill {font-size:13px;top: 21px;left: 156px; }
+section .cast {font-size: 9px;}
+section .bukvi {font-size: 12px; left: 154px;}
+section .rate {font-size: 9px;}
+section .rating {font-size: 30px;left: -88px;top: 4px;}
+section .nol {display: none;}
+section .data {font-size: 10px; left: 11px;top: 30px;}
+section .january {font-size: 10px;left: 108px;top: 32px;}
+section .cena {font-size: 9px; left: 18px;top: 91px;}
+section .trik {font-size: 9px; left: 14px;top: 118px;}
+section .vrema {font-size: 10px; left: 11px;top: 30px;}
+section .tridcat {font-size: 10px;left: 103px;top: 32px;}
+section .zal {font-size: 9px; left: 119px;top: 91px;}
+section .treti {font-size: 9px; left: 127px;top: 118px;}
+section .mesto {font-size: 9px; left: 12px;top: 91px;}
+  section .eleven  {font-size: 9px; left: 25px;top: 118px;}
+  section .tariff {font-size: 9px; left:99px;top: 91px;}
+section .premium {font-size: 9px; left: 92px;top: 118px;}
 
 }
 
