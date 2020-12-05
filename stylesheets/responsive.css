@@ -139,8 +139,7 @@ section .procherksm5 {left:85px; top:1px;}
 section .tariff {top: 106px;left: 119px; font-size: 11px;}
  }
 
-@media all and (min-width: 1366px) and (max-width: 768px) {
-section div {overflow: hidden; }
+@media screen and (min-width: 768px) and (max-width: 1366px) {
  section .ramka4 {top:-7px;}
  section .ramka1 {top:40px;}
  section .ramka3 {top:600px;} section .ramka3copy2 {top:600px;} section .ramka3copy3 {top:600px;} section .ramka3copy {top:810px;}
@@ -236,7 +235,6 @@ section .corobka11 {width:282px;bottom: 1137px;left: 585px;  height: 105px;}
     section .premium {font-size: 9px; left: 92px;top: 118px;}
 
 }
-
 
 
 @media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
