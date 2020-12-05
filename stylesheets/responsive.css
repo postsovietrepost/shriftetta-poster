@@ -154,7 +154,7 @@ section .tariff {top: 106px;left: 119px; font-size: 11px;}
 
 
 @media screen and (max-width: 1280px) and (min-width: 800px) {
-  section .ramka1 {width:332px; height:680px; left:103px; }
+  section .ramka1 {width:332px; height:680px; left:103px; top:70px;}
   section .ramka2 {width:870px; height:680px; top:70px;margin-right: 124px;}
   section .ramka4 {width:400px; top:20px;}
   section .ramka3 {top:504px; width:332px; height:246px;right: 915px;}
@@ -172,7 +172,7 @@ section .tariff {top: 106px;left: 119px; font-size: 11px;}
    section .ramka3copy3 {width:164px; height:144px;right: 747px;top: 258px;}
     section .ramka3copy2 {top:114px; width:171px; height:144px;right: 915px;}
     section .codeimg {top:-5px;}
-    section .rop {height:120px; width:294px; }
+    section .rop {height:120px; width:294px; top: -3px;}
     section .corobka1 {top:-123px; height:120px; left:288px; width:296px; }
      section .corobka2 {top:-243px; height:120px; left:581px; width:286px; }
     section .corobka4 {margin-top:164px; height:243px; width:440px;}
@@ -232,7 +232,7 @@ section .corobka11 {width:282px;bottom: 1137px;left: 585px;  height: 105px;}
     section .mesto {font-size: 9px; left: 12px;top: 91px;}
       section .eleven  {font-size: 9px; left: 25px;top: 118px;}
       section .tariff {font-size: 9px; left:99px;top: 91px;}
-    section .premium {font-size: 9px; left: 92px;top: 118px;}
+    section .premium {font-size: 9px; left: 89px;top: 118px;}
 
 }
 
