@@ -39,7 +39,7 @@ div .corobka7 {left:368px; width:457px;}
   section .ofbilet {font-size: 9px; left:5px;}
   section .premier {font-size: 11.5px;} section .director {font-size: 11.5px;} section .cast {font-size: 11.5px;} section .rate {font-size: 11.5px;}
   section .ss {left:61px; font-size: 24px; top:73px}
-  section .drama {left:36px; font-size:11.5px; top:120px;}
+  section .drama {left:32px; font-size:11.5px; top:120px;}
   section .nazvanie {left:10px; font-size: 9px;}
   section .dvad {left:361px; font-size: 9px;} section .nol {font-size:9px; left:233px;}
   section .qvadrat1 {width:430px; left:-3px;} section .qvadrat2 {width:430px; left:-3px;} section .qvadrat3 {width:430px; left:-3px;}
@@ -56,7 +56,7 @@ div .corobka7 {left:368px; width:457px;}
   section .procherkb4 {left:144px; width: 30px;} section .procherkb2 {width: 30px; left: 27px;}
   section .tariff {left:130px; font-size: 11.5px;} section .premium {left:120px; font-size:11.5px;}
   section .procherksm4 {display:none;} section .mesto {left:19px; font-size: 11.5px;} .procherksm6 {top:98px;} section .eleven {left:33px; font-size: 12px;}
-  section .smallline10 {width:470px;} section .vrema {font-size: 11.5px;} section .tridcat {font-size: 11.5px; left: 146px;}
+  section .smallline10 {width:470px;} section .vrema {font-size: 11.5px;} section .tridcat {font-size: 11.5px; left: 143px;}
  }
 
 @media screen and (max-width: 1440px) and (min-width: 900px) {
@@ -104,18 +104,39 @@ section .r {background-size:cover; width: 220px; height: 332px; margin-top: 16px
 section .eb {background-size:cover; width: 100px; height: 98px; margin-top: 14px;margin-left: 82px;}
 section .e {background-size: cover;width: 150px;margin-left: 41px;height: 122px;margin-top: -2px;}
   section .sh {margin-top:-3px; background-size: cover; width:375px; height: 141px;margin-left: -13px;}
-section .ofbilet {font-size: 10px; top:15px; }
-section .special {font-size:10px; top:15px; left:380px;}
-section .dvad {margin-left:20px;}
-section .ss {left:90px;} section .drama {left:65px;}
-section .director {font-size: 12px;}
-section .premier {font-size: 12px;} section .cast {font-size:12px;} section .rate {font-size: 12px;} section .nol {font-size: 11px; left:290px;}
-section .procherkb4 {left:160px;} section .procherkb2 {left:25px;}
+section .ofbilet {font-size: 8px; top:15px; }
+section .special {font-size:8px; top:15px; left:315px;}
+section .dvad {margin-left:20px; left: 314px;}
+section .ss {left:43px;top: 62px;} section .drama {left:43px;top: 102px;font-size: 10px;}
+section .director {font-size: 11px; top: 34px;}
+section .kirill {top:20px; font-size: 18px;}
+section .pyat {top:22px; font-size: 17px;}
+section .premier {font-size: 11px;top: 35px;}
+section .cast {font-size:11px;}
+section .data {font-size: 11px;left: 11px;top: 38px;}
+section .january {left: 130px;font-size: 11px;}
+section .bukvi {font-size: 16px; top:21px;}
+ section .rate {font-size: 11px;left: 11px;}
+ section .rating {font-size: 39px;top: 9px;left: -43px;}
+ section .nol {font-size: 8px; left:212px;top: 46px;}
+section .procherkb4 {left:134px; top:-2px;}
+section .procherkb2 {left:24px; top:6px;}
 section .procherksm3 {display: none;} section .procherksm6 {display:none;}
-section .mesto {margin-left:-9px;}
-section .procherksm {display:none;} section .procherkb {left:30px;} section .eleven {left:40px;}
-section .trik {left:25px;} section .smallline {left:115px;} section .procherksm2 {margin-left:-6px;}
-section .premium {left:140px; font-size:12px;}
+section .mesto {left:17px;top: 106px;font-size: 11px;}
+section .procherksm {display:none;} section .procherkb {left:24px;top: 2px;}
+section .eleven {left:30px;top: 137px;font-size: 11px;}
+section .trik {left:18px;top: 137px;font-size: 11px;} section .smallline {left:97px;top: 86px;height: 80px;}
+section .cena {left:22px;top: 106px;font-size: 11px;}
+section .zal {top: 106px;left: 138px; font-size: 11px;}
+section .treti {top: 137px; left: 146px;}
+section .procherksm2 {left:86px;  top: 6px;}
+section .vrema {font-size: 11px;}
+section .tridcat {font-size: 11px; left: 131px;}
+section .smallline2 {height:80px;top: 86px;left: 93px;}
+section .procherkb3 {top:-2px;left: 139px;}
+section .premium {top: 137px; left: 110px; font-size: 11px;}
+section .procherksm5 {left:85px; top:1px;}
+section .tariff {top: 106px;left: 119px; font-size: 11px;}
  }
 
 @media all and (min-width: 1366px) and (max-width: 768px) {
