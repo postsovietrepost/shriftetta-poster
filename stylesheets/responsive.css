@@ -270,7 +270,7 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
     section .y {background-size: cover; height:124px; width:165px; top:-8px; margin-left:53px;}
 
     /* text */
-    section .ofbilet {font-size: 6.5px;left: 3px;}
+    section .ofbilet {font-size: 6.5px;left: 4px;}
     section .special {font-size: 6.5px; left: 260px;}
     section .nazvanie {font-size: 8px;}
     section .dvad {font-size:8px; left:254px;}
@@ -303,13 +303,26 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:landscape){
-section .ramka1 {left: -342px;height: 638px;}
+section .ramka1 {left: -342px;height: 638px;width: 550px;}
 section .ramka4 {width:840px;}
-section .ramka2 {left: -484px;width: 646px;}
-section .ramka1copy {width:840px;}
+section .ramka2 {left: -265px;width: 417px;height: 638px;}
+section .ramka1copy {width:548px;left: -1px;}
+section .ramka5 {height: 59px;top: -100px;width: 193px;left: 133px;}
+section .ramka3 {height: 224px;margin-left: 114px;top: 484px;width: 548px;}
+section .ramka3copy {height: 79px;margin-left: 113px;top: 113px;width: 549px;}
+section .codeimg {top:7px;width: 574px;height: 57px;}
+section .ramka3copy2 {top: 116px;margin-left: -105px;width: 169px;}
+section .ramka3copy3 {top:260px;margin-left: -107px;height: 148px;}
+section .smallqvadrat3 {top: -97px;left: -3px;width: 139px;}
+section .smalllqvadrat {left: -2px;width: 139px;}
+section .smallqvadrat2 {left: -5px;}
+section .qvadrat2 {width: 330px; left: -2px;}
+section .qvadrat1 {width: 330px;}
+section .qvadrat3 {left:-5px;}
+section .smallqvadrat4 {top:-143px;left: -3px;width: 139px;height: 59px;}
 section .ramka1copy2 {width:840px;}
 section .smallline9 {width:840px;}
-section .rop {top:800px; left:30px;}
+section .rop {width: 223px;}
 section .vibration {left:250px; width:300px;}
 section .corobka2 {display: none;}
 section .corobka3 {display: none;}
@@ -317,6 +330,20 @@ section .corobka5 {display: none;}
 section .corobka7 {display: none;}
 section .corobka11 {display: none;}
 section .corobka12 {display: none;}
+section .ofbilet {top: 12px;left: 0px;}
+section .special {top: 12px; }
+section .rate {top: 22px;}
+section .rating {top: -8px;}
+section .director {top: 33px;}
+section .kirill {left: 154px;top: 20px;}
+section .pyat {left: 155px; top: 10px;}
+section .corobka9 {top: -132px;height: 79px;width: 224px;}
+section .corobka10 {bottom: 912px;left: 218px;width: 196px;height: 79px;}
+section .corobka6 {top:-129px;height: 200px;width: 417px;}
+section .corobka4 {top: -126px;height: 247px;width: 417px;}
+section .corobka1 {top: -123px;left: 217px;width: 197px;height: 121px;}
+}
+
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
 section .ramka2 {display:none;}
