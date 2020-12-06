@@ -312,7 +312,7 @@ section .ramka3 {height: 224px;margin-left: 114px;top: 484px;width: 548px;}
 section .ramka3copy {height: 79px;margin-left: 113px;top: 113px;width: 549px;}
 section .codeimg {top:7px;width: 574px;height: 57px;}
 section .ramka3copy2 {top: 116px;margin-left: -105px;width: 169px;}
-section .ramka3copy3 {top:260px;margin-left: -107px;height: 148px;}
+section .ramka3copy3 {top:260px;margin-left: 210px;height: 148px;}
 section .smallqvadrat3 {top: -97px;left: -3px;width: 139px;}
 section .smalllqvadrat {left: -2px;width: 139px;}
 section .smallqvadrat2 {left: -5px;}
@@ -342,7 +342,6 @@ section .corobka10 {bottom: 912px;left: 218px;width: 196px;height: 79px;}
 section .corobka6 {top:-129px;height: 200px;width: 417px;}
 section .corobka4 {top: -126px;height: 247px;width: 417px;}
 section .corobka1 {top: -123px;left: 217px;width: 197px;height: 121px;}
-}
 
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
