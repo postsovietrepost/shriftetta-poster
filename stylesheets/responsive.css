@@ -116,7 +116,7 @@ section .cast {font-size:11px;}
 section .data {font-size: 11px;left: 11px;top: 38px;}
 section .january {left: 130px;font-size: 11px;}
 section .bukvi {font-size: 16px; top:21px;}
- section .rate {font-size: 11px;left: 11px;}
+ section .rate {font-size: 11px;left: 11px;top: 41px;}
  section .rating {font-size: 39px;top: 9px;left: -43px;}
  section .nol {font-size: 8px; left:212px;top: 46px;}
 section .procherkb4 {left:134px; top:-2px;}
@@ -184,6 +184,14 @@ section .corobka9 {bottom: 724px;width: 305px;}
 section .corobka10 {margin-top: 690px;left: 299px;width: 300px;}
 section .corobka11 {left: 596px;width: 300px;}
 section .rop {top: -3px;height: 123px;width: 305px;}
+section .vibration {top:-10px;margin-left: 39px;}
+section .e {top: -3px;width: 133px;height: 115px;margin-left: 74px;}
+section .t {top: -33px;width: 256px;height: 158px;margin-left: 10px;}
+section .j {margin-left:-27px;}
+section .f {top: -85px;width: 385px;height: 240px;margin-left: 136px;}
+section .o {top: -106px;width: 380px;height: 287px;margin-left: 87px;}
+section .rt {top:-46px;margin-left: 55px;width: 173px;height: 260px;}
+section .y {top:-3px;margin-left: 63px;width: 150px;height: 145px;}
 
 /* text */
 section .ofbilet {left: -2px;}
@@ -198,8 +206,14 @@ section .pyat {top:13px;font-size: 15px;}
 section .kirill {top:11px;font-size: 15px;}
 section .bukvi {top:11px;font-size: 15px;}
 section .rating {top:-10px;left: -33px;}
-
-
+section .cena {top: 115px;left: 20px;}
+section .trik {top: 160px;left: 16px;}
+section .zal {top: 115px;left: 137px;}
+section .treti {top: 160px;left: 147px;}
+section .mesto {top: 115px;left: 17px;}
+section .eleven {top: 160px;left: 33px;}
+section .tariff {top: 115px;left: 119px;}
+section .premium {top: 160px;left: 109px;}
 }
 
 
