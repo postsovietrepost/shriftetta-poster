@@ -301,12 +301,18 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
 }
 
 
-@media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-section .ramka2 {display: none;}
-section .ramka1 {width:840px;}
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+section .ramka1 {left: -342px;}
 section .ramka4 {width:840px;}
+section .ramka2 {left: -484px;}
 section .ramka1copy {width:840px;}
 section .ramka1copy2 {width:840px;}
 section .smallline9 {width:840px;}
 section .rop {top:800px; left:30px;}
 section .vibration {left:250px; width:300px;}
+section .corobka2 {display: none;}
+section .corobka3 {display: none;}
+section .corobka5 {display: none;}
+section .corobka7 {display: none;}
+section .corobka11 {display: none;}
+section .corobka12 {display: none;}
