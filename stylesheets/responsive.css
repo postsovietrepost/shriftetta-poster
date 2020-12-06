@@ -299,11 +299,8 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
     section .premium {font-size: 9px; left: 89px;top: 118px;}
 
 }
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-  section .ramka1 {left: -342px;}
 
-}
-@media only screen and (min-device-width: 768px) (max-device-width: 1024px) and (orientation:landscape) {
+@media screen and (max-device-width: 1024px) and (min-device-width: 768px) {
 section .ramka1 {left: -342px;}
 section .ramka4 {width:840px;}
 section .ramka2 {left: -484px;}
