@@ -307,42 +307,55 @@ section .ramka1 {left: -342px;height: 638px;width: 550px;}
 section .ramka4 {width:840px;}
 section .ramka2 {left: -265px;width: 417px;height: 638px;}
 section .ramka1copy {width:548px;left: -1px;}
-section .ramka5 {height: 59px;top: -100px;width: 193px;left: 133px;}
+section .ramka5 {height: 62px;top: -105px;width: 330px;left: 215px;}
 section .ramka3 {height: 276px;margin-left: 114px;top: 432px;width: 548px;}
 section .ramka3copy {height: 131px;margin-left: 113px;top: 5px;width: 549px;}
 section .codeimg {top:-24px;width: 527px;height: 172px; background-size: cover;left: 17px;}
 section .ramka3copy2 {top: 8px;margin-left: 114px;width: 267px;height: 148px;}
 section .ramka3copy3 {top:156px;margin-left: 210px;height: 148px;width: 284px;}
-section .smallqvadrat3 {top: -97px;left: -3px;width: 139px;}
-section .smalllqvadrat {left: -2px;width: 139px;}
-section .smallqvadrat2 {left: -5px;}
-section .qvadrat2 {width: 330px; left: -2px;}
-section .qvadrat1 {width: 330px;}
-section .qvadrat3 {left:-5px;}
-section .smallqvadrat4 {top:-143px;left: -3px;width: 139px;height: 59px;}
+section .smallqvadrat3 {top: -102px;left: -3px;width: 221px;height: 54px;}
+section .smalllqvadrat {left: -2px;width: 221px;}
+section .smallqvadrat2 {left: -5px;width: 223px;}
+section .qvadrat2 {width: 221px; left: -2px;}
+section .qvadrat1 {width: 547px;height: 80px;}
+section .qvadrat3 {left:-5px;height: 112px;width: 549px;}
+section .smallqvadrat4 {top:-151px;left: -3px;width: 221px;height: 62px;}
 section .ramka1copy2 {width:840px;}
 section .smallline9 {width:840px;}
 section .rop {width: 223px;}
-section .vibration {left:250px; width:300px;}
+section .vibration {left:250px; width:201px;top: -1px;margin-left: 12px;}
 section .corobka2 {display: none;}
 section .corobka3 {display: none;}
 section .corobka5 {display: none;}
 section .corobka7 {display: none;}
 section .corobka11 {display: none;}
 section .corobka12 {display: none;}
-section .ofbilet {top: 12px;left: 0px;}
-section .special {top: 12px; }
+section .ofbilet {top: 12px;left: 0px; font-size: 9px;}
+section .special {top: 12px; left: 449px;font-size: 9px;}
 section .rate {top: 22px;}
 section .rating {top: -8px;}
 section .director {top: 33px;}
-section .kirill {left: 154px;top: 20px;}
-section .pyat {left: 155px; top: 10px;}
+section .kirill {left: 296px;top: 20px;font-size: 16px;}
+section .pyat {left: 296px; top: 10px;font-size: 16px;}
+section .dvad {left: 469px;}
 section .corobka9 {top: -132px;height: 131px;width: 224px;}
 section .corobka10 {bottom: 964px;left: 218px;width: 196px;height: 131px;}
 section .corobka6 {top:-129px;height: 148px;width: 417px;}
 section .corobka4 {top: -126px;height: 247px;width: 417px;}
 section .corobka1 {top: -123px;left: 217px;width: 197px;height: 121px;}
-
+section .tr {background-size: cover; width: 250px; height: 252px;left: 19px;top: -75px;}
+section .rt {background-size: cover; width: 324px; height: 240px;left: -116px;top: -55px;}
+section .f {background-size: cover; width: 286px; height: 240px;left: -59px;top: -68px;}
+section .j {background-size: cover; width: 523px; height: 341px;left: -45px;top: -52px;}
+section .e {background-size: cover; width: 120px; height: 114px;margin-left: 25px;top: 0px;}
+section .ss {left: 103px;font-size: 26px;top: 50px;}
+section .drama {left: 113px;font-size: 10px;top: 89px;}
+section .bukvi {font-size: 11px;line-height: 18px;top: 8px;left: 300px;}
+section .rating {font-size: 42px;left: 31px;top: -12px;}
+section .cast {top: 19px;}
+section .tridcat {left: 219px;}
+section .january {left: 203px;}
+section .procherkb4 {left: 199px;}
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
 section .ramka2 {display:none;}
