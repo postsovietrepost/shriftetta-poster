@@ -375,11 +375,11 @@ section .cast {font-size: 10px; left: 9px;}
 section .rate {font-size: 10px; left: 10px;}
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
-section .ramka2 {top: 500px;left: -472px;}
+section .ramka2 {top: 431px;left: -468px;width: 676px;}
 section .ramka1copy {width: 680px;}
 section .corobka9 {left: 30px;}
-section .ramka3copy2 {display: none;}
-section .ramka3copy3 {display: none;}
+section .ramka3copy2 {top: 700px;}
+section .ramka3copy3 {top: 700px;}
 section .ramka3 {display: none;}
 section .ramka3copy {display: none;}
 section .rop {display:none;}
@@ -390,10 +390,9 @@ section .corobka11 {display: none;}
 section .corobka12 {display: none;}
 section .corobka3 {display: none;}
 section .corobka8 {display: none;}
-
-corobka4
-corobka5
-corobka7
+section .corobka7 {left: 9px; top: -74px;}
+section .corobka5 {left: 15px; top: -50px;}
+section .corobka4 {left: 30px; top: -30px;}
 
 
 }
