@@ -489,6 +489,8 @@ section .procherksm5 {top: -206px;left: 149px;}
 }
 
 @media only screen and (max-device-width: 568px) and (min-device-width: 320px) and (orientation:portrait){
+  body {overflow: scroll; height: 835px;}
+  html {overflow:scroll; height: 835px;}
 section .corobka1 {display: none;}
 section .corobka2 {display: none;}
 section .corobka6 {display: none;}
@@ -498,6 +500,10 @@ section .corobka8 {display: none;}
 section .corobka3 {display: none;}
 section .corobka11 {display: none;}
 section .ramka2 {left: -472px; top: 800px;}
-section .ramka1 {width: 307px;left: -18px;}
-
+section .ramka1 {width: 301px;left: -31px;}
+section .ramka1copy {width:301px;}
+section .qvadrat2 {width: 301px;}
+section .qvadrat1 {width: 301px;}
+section .qvadrat3 {width: 301px;}
+section .ramka5 {width: 162px;}
 }
