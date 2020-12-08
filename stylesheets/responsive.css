@@ -282,7 +282,7 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
     section .procherkb4 {top:11px; left: 108px;}
     /* animation */
     section .eb {background-size: cover; height:100px; width:150px; top:20px; left:131px;}
-    section .vibration {background-size: cover; width:154px; height:157px;margin-left: 44px;}
+    section .vibration {background-size: cover; width:154px; height:157px;margin-left: 44px;top: 0px;}
     section .j {background-size: cover; height:459px; width:483px; margin-left:-9px; top:-45px;}
     section .t {width: 244px; height:150px;left: 28px;}
     section .b {background-size: cover; height:248px; width:377px;margin-left: -6px;}
