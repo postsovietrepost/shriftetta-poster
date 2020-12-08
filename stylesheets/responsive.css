@@ -377,8 +377,8 @@ section .rate {font-size: 10px; left: 10px;}
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
 section .ramka2 {display:none;}
 body {overflow: scroll;}
-section .ramka1copy {width: 630px;}
-
+section .ramka1copy {width: 671px;}
+html {overflow: scroll;}
 
 
 
