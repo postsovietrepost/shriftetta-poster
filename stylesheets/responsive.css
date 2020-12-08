@@ -4,6 +4,9 @@
   section .shriftetta3 {display: none;}
   section .good {display: none;}
   section .ramka8 {display: none;}
+
+  body {overflow: hidden; height: 1792px;}
+  html {overflow:hidden; height: 1792px;}
 }
 
 @media screen and (max-width: 1680px) and (min-width: 1050px) {
@@ -405,6 +408,8 @@ section .shriftetta3 {display: none;}
 section .ramka7 {display: none;}
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
+body {overflow: scroll; height: 1510px;}
+html {overflow:scroll; height: 1510px;}
 section .ramka2 {top: 700px;left: -549px;width: 676px;}
 section .ramka1copy {width: 681px;left: -3px;}
 section .smalllqvadrat {left: -3px;}
