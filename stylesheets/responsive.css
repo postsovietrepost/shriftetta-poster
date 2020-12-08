@@ -486,6 +486,18 @@ section .procherkb2 {top: -202px;left: 53px;}
 section .procherkb3 {top: -210px;left: 241px;}
 section .procherksm2 {top: -202px;left: 162px;}
 section .procherksm5 {top: -206px;left: 149px;}
+}
 
+@media only screen and (max-device-width: 568px) and (min-device-width: 320px) and (orientation:portrait){
+section .corobka1 {display: none;}
+section .corobka2 {display: none;}
+section .corobka6 {display: none;}
+section .corobka7 {display: none;}
+section .corobka12 {display: none;}
+section .corobka8 {display: none;}
+section .corobka3 {display: none;}
+section .corobka11 {display: none;}
+section .ramka2 {left: -472px; top: 800px;}
+section .ramka1 {width: 307px;left: -18px;}
 
 }
