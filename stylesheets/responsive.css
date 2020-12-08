@@ -488,7 +488,7 @@ section .procherksm2 {top: -202px;left: 162px;}
 section .procherksm5 {top: -206px;left: 149px;}
 }
 
-@media only screen and (max-device-width: 568px) and (min-device-width: 320px) and (orientation:portrait){
+@media only screen and (max-width: 568px) and (min-width: 320px) and (orientation:portrait){
   body {overflow: scroll; height: 835px;}
   html {overflow:scroll; height: 835px;}
 section .corobka1 {display: none;}
