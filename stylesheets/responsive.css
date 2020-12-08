@@ -375,12 +375,25 @@ section .cast {font-size: 10px; left: 9px;}
 section .rate {font-size: 10px; left: 10px;}
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
-section .ramka2 {display:none;}
-body {overflow: scroll;}
+section .ramka2 {top: 500px;left: -472px;}
 section .ramka1copy {width: 680px;}
-html {overflow: scroll;}
+section .corobka9 {left: 30px;}
+section .ramka3copy2 {display: none;}
+section .ramka3copy3 {display: none;}
+section .ramka3 {display: none;}
+section .ramka3copy {display: none;}
+section .rop {display:none;}
+section .corobka1 {display: none;}
+section .corobka2 {display: none;}
+section .corobka6 {display: none;}
+section .corobka11 {display: none;}
+section .corobka12 {display: none;}
+section .corobka3 {display: none;}
+section .corobka8 {display: none;}
 
-
+corobka4
+corobka5
+corobka7
 
 
 }
