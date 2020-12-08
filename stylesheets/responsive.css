@@ -499,21 +499,30 @@ section .corobka12 {display: none;}
 section .corobka8 {display: none;}
 section .corobka3 {display: none;}
 section .corobka11 {display: none;}
-section .ramka2 {left: -472px; top: 800px;}
+section .ramka2 {left: -501px; top: 855px;width: 300px;height: 300px;}
 section .ramka1 {width: 301px;left: -31px;}
 section .ramka1copy {width:301px;}
 section .qvadrat2 {width: 301px;}
 section .qvadrat1 {width: 301px;}
 section .qvadrat3 {width: 301px;}
 section .ramka5 {width: 162px;}
-section .ramka3copy2 {top: 400px;}
+section .ramka3copy2 {top: 375px;left: -301px;height: 150px;width: 150px;}
+section .ramka3copy3 {top: 525px; left: -152px;height: 150px;width: 151px;}
 section .ofbilet {font-size: 6px; left: -30px;top: 22px;}
 section .special {font-size: 6px; left: 206px; top: 22px;}
 section .corobka4 {top: 300px;}
-section .ramka3 {top: 750px;}
-section .corobka9 {bottom: 982px;left: -32px;width: 154px;}
+section .ramka3 {top: 950px;}
+section .corobka9 {bottom: 1037px;left: -3px;width: 154px;}
 section .tr {background-size: cover; width: 182px; height: 150px; animation-play-state: paused;left: -16px;top: -24px;}
-section .corobka10 {left: 119px;bottom: 1102px;width: 151px;}
+section .corobka10 {left: 148px;bottom: 1157px;width: 151px;}
 section .rt {background-size: cover;width: 284px; height: 166px; animation-play-state: paused;left: -67px; }
-
+section .ramka6 {left: -5px; top: -109px;height: 24px;width: 302px;}
+section .teethimg {top: 17px;}
+section .good {display: none;}
+section .shriftetta1 {display: none;}
+section .shriftetta3 {display: none;}
+section .shriftetta2 {left: 94px; top: 578px;font-size: 12px;}
+section .rop {top: 600px;}
+section .ramka7 {left: -4px; top: 413px;height: 24px;width: 300px;}
+section .teethimg2 {top: -19px;}
 }
