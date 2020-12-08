@@ -1,3 +1,10 @@
+@media screen and (max-width: 1792px) and (min-width: 1057px) {
+  section .shriftetta1 {display: none;}
+  section .shriftetta2 {display: none;}
+  section .shriftetta3 {display: none;}
+  section .good {display: none;}
+  section .ramka8 {display: none;}
+}
 
 @media screen and (max-width: 1680px) and (min-width: 1050px) {
   article > * { width: calc(100% - 40px); }
@@ -57,7 +64,11 @@ div .corobka7 {left:368px; width:457px;}
   section .tariff {left:130px; font-size: 11.5px;} section .premium {left:120px; font-size:11.5px;}
   section .procherksm4 {display:none;} section .mesto {left:19px; font-size: 11.5px;} .procherksm6 {top:98px;} section .eleven {left:33px; font-size: 12px;}
   section .smallline10 {width:470px;} section .vrema {font-size: 11.5px;} section .tridcat {font-size: 11.5px; left: 143px;}
-  /* section .ramka6 {display: none;} */
+  section .shriftetta1 {display: none;}
+  section .shriftetta2 {display: none;}
+  section .shriftetta3 {display: none;}
+  section .good {display: none;}
+  section .ramka8 {display: none;}
  }
 
 @media screen and (max-width: 1440px) and (min-width: 900px) {
@@ -138,7 +149,11 @@ section .procherkb3 {top:-2px;left: 139px;}
 section .premium {top: 137px; left: 110px; font-size: 11px;}
 section .procherksm5 {left:85px; top:1px;}
 section .tariff {top: 106px;left: 119px; font-size: 11px;}
-/* section .ramka6 {display: none;} */
+section .shriftetta1 {display: none;}
+section .shriftetta2 {display: none;}
+section .shriftetta3 {display: none;}
+section .good {display: none;}
+section .ramka8 {display: none;}
  }
 
 @media screen and (min-width: 768px) and (max-width: 1366px) {
@@ -170,6 +185,9 @@ section .tariff {top: 106px;left: 119px; font-size: 11px;}
   section .procherkb4 {top: -27px;}
   section .procherksm2 {top: -17px;}
   section .procherksm5 {top: -22px;left: 82px;}
+  /* section .shriftetta1 {display: none;}
+  section .shriftetta2 {display: none;}
+  section .shriftetta3 {display: none;} */
 /* animation */
 section .corobka3 {display: none;}
 section .corobka8 {display: none;}
@@ -300,7 +318,11 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
       section .eleven  {font-size: 9px; left: 25px;top: 118px;}
       section .tariff {font-size: 9px; left:99px;top: 91px;}
     section .premium {font-size: 9px; left: 89px;top: 118px;}
-    /* section .ramka6 {display: none;} */
+    section .shriftetta1 {display: none;}
+    section .shriftetta2 {display: none;}
+    section .shriftetta3 {display: none;}
+    section .good {display: none;}
+    section .ramka8 {display: none;}
 
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px){
@@ -377,19 +399,24 @@ section .premier {font-size: 10px;}
 section .director {font-size: 10px;top: 33px;}
 section .cast {font-size: 10px; left: 9px;}
 section .rate {font-size: 10px; left: 10px;}
+section .shriftetta1 {display: none;}
+section .shriftetta2 {display: none;}
+section .shriftetta3 {display: none;}
+section .ramka7 {display: none;}
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
-section .ramka2 {top: 631px;left: -468px;width: 676px;}
+section .ramka2 {top: 700px;left: -549px;width: 676px;}
 section .ramka1copy {width: 681px;left: -3px;}
 section .smalllqvadrat {left: -3px;}
 section .smallqvadrat2 {left: -5px;}
-section .corobka9 {left: -84px;bottom: 944px;width: 341px;}
+section .corobka9 {left: -3px;bottom: 988px;width: 341px;bottom: 783px;}
 section .smallqvadrat4 {left:-5px;}
 section .ramka1 {width: 681px;}
-section .ramka3copy2 {top: 700px;}
-section .ramka3copy3 {top: 700px;}
+section .ramka3copy2 {top: 705px;left: -725px;width: 335px;height: 192px;}
+
+section .ramka3copy3 {top: 897px;left: -393px;width: 344px;}
 section .ramka3 {display: none;}
-section .ramka3copy {display: none;}
+section .ramka3copy {top: 855px;right: 725px;width: 676px;height: 181px;}
 section .ramka5 {width: 542px;}
 section .rop {display:none;}
 section .corobka1 {display: none;}
@@ -399,13 +426,25 @@ section .corobka11 {display: none;}
 section .corobka12 {display: none;}
 section .corobka3 {display: none;}
 section .corobka8 {display: none;}
-section .corobka7 {left: 9px; top: -74px;}
-section .corobka5 {left: 15px; top: -50px;}
-section .corobka4 {left: 30px; top: -30px;}
-section .corobka10 {left: 254px;bottom: 1754px;width: 343px;}
+section .corobka7 {left: 493px; top: 27px;width: 180px;height: 156px;}
+section .corobka5 {left: -3px; top: -159px;height: 200px;width: 676px;}
+section .corobka4 {left: -3px; top: 383px;height: 156px;width: 180px;}
+section .corobka10 {left: 335px;bottom: 1593px;width: 343px;}
 section .ramka6 {left: -5px; top: -51px;width: 681px;}
+section .ramka7 {top: 373px;left: -4px; width: 676px;}
 section .qvadrat2 {width: 680px;}
 section .qvadrat1 {width: 679px;}
 section .qvadrat3 {width: 680px;}
 section .teethimg {top: 32px;}
+section .teethimg2 {top: -42px;width: 673px;}
+section .shriftetta1 {top: 517px;left: 560px;}
+section .shriftetta2 {top: 517px; left: 16px;}
+section .shriftetta3 {top: 517px; left: 290px;}
+section .codeimg {background-size: cover; width: 666px; height: 125px;top: 12px;left: 11px;}
+section .good {top: -89px;font-size: 15px;left: 199px;}
+section .b {background-size: cover; width: 455px; height: 205px; top: -33px;left: 105px;}
+section .o {background-size: cover; width: 193px; height: 181px; top: 10px;left: -97px;}
+section .j {background-size: cover; width: 215px; height: 179px; top: 29px;left: 7px;}
+section .ramka8 {top: 146px;left: -1px;height: 32px;width: 673px;}
+
 }
