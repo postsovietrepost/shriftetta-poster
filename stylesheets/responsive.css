@@ -489,8 +489,8 @@ section .procherksm5 {top: -206px;left: 149px;}
 }
 
 @media only screen and (max-width: 568px) and (min-width: 320px) and (orientation:portrait){
-  body {overflow: scroll; height: 1510px;}
-  html {overflow:scroll; height: 1510px;}
+body {overflow: scroll; height: 1200px;}
+html {overflow:scroll; height: 1200px;}
 section .corobka1 {display: none;}
 section .corobka2 {display: none;}
 section .corobka6 {display: none;}
@@ -510,11 +510,12 @@ section .ramka3copy2 {top: 375px;left: -301px;height: 150px;width: 150px;}
 section .ramka3copy3 {top: 525px; left: -152px;height: 150px;width: 151px;}
 section .ofbilet {font-size: 6px; left: -30px;top: 22px;}
 section .special {font-size: 6px; left: 206px; top: 22px;}
-section .corobka4 {top: 300px;}
+section .corobka4 {top: 80px;width: 81px;height: 63px;}
+section .j {background-size: cover;width: 105px; height: 85px; animation-play-state: paused;left: -15px;top: -2px; }
 section .ramka3 {top: 950px;}
-section .corobka9 {bottom: 1037px;left: -3px;width: 154px;}
+section .corobka9 {bottom: 426px;left: -3px;width: 154px;}
 section .tr {background-size: cover; width: 182px; height: 150px; animation-play-state: paused;left: -16px;top: -24px;}
-section .corobka10 {left: 148px;bottom: 1157px;width: 151px;}
+section .corobka10 {left: 148px;bottom: 546px;width: 151px;}
 section .rt {background-size: cover;width: 284px; height: 166px; animation-play-state: paused;left: -67px; }
 section .ramka6 {left: -5px; top: -109px;height: 24px;width: 302px;}
 section .teethimg {top: 17px;}
@@ -522,7 +523,13 @@ section .good {display: none;}
 section .shriftetta1 {display: none;}
 section .shriftetta3 {display: none;}
 section .shriftetta2 {left: 94px; top: 578px;font-size: 12px;}
-section .rop {top: 600px;}
+section .rop {top: 143px;width: 81px;height: 63px;left: 216px;}
 section .ramka7 {left: -4px; top: 413px;height: 24px;width: 300px;}
 section .teethimg2 {top: -19px;}
+section .corobka5 {left: 75px; top: 17px;width: 144px;height: 63px;}
+section .b {background-size: cover;width: 125px; height: 65px; animation-play-state: paused;left: 6px; top: -4px;}
+section .vibration {background-size: cover;width: 95px; height: 78px; animation-play-state: paused;margin-left: -10px;top: 1px; }
+section .ramka3copy {right: 301px; top: 432px;width: 300px;height: 73px;}
+section .codeimg {background-size: cover;width: 292px; height: 65px;top: 2px;left: 11px;}
+section .ramka8 {top: 68px;left: -3px;width: 300px;height: 21px;}
 }
