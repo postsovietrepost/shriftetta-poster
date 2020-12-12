@@ -4,10 +4,13 @@
   section .shriftetta3 {display: none;}
   section .good {display: none;}
   section .ramka8 {display: none;}
+  section .ramka6 {display: none;}
 
   body {overflow: hidden; height: 1792px;}
   html {overflow:hidden; height: 1792px;}
 }
+
+
 
 @media screen and (max-width: 1680px) and (min-width: 1050px) {
   article > * { width: calc(100% - 40px); }
@@ -179,7 +182,6 @@ section .ramka8 {display: none;}
   section .qvadrat3 {height: 92px;top: -6px;}
   section .smallqvadrat3 {height: 92px;top: -98px;width: 140px;}
   section .smallqvadrat4 {height:64px;top: -165px;width: 140px;}
-  section .nol {display: none;}
   section .smallline {height: 102px;}
   section .smallline2 {height: 102px;}
   section .procherkb {top: -21px;}
@@ -308,7 +310,7 @@ section .corobka11 {width:282px;margin-top: 14px;left: 585px;  height: 106px;}
     section .bukvi {font-size: 12px; left: 154px;}
     section .rate {font-size: 9px;}
     section .rating {font-size: 30px;left: -88px;top: 4px;}
-    /* section .nol {display: none;} */
+    section .nol {display: none;}
     section .data {font-size: 10px; left: 11px;top: 30px;}
     section .january {font-size: 10px;left: 108px;top: 32px;}
     section .cena {font-size: 9px; left: 18px;top: 91px;}
@@ -406,7 +408,6 @@ section .shriftetta1 {display: none;}
 section .shriftetta2 {display: none;}
 section .shriftetta3 {display: none;}
 section .ramka7 {display: none;}
-section .nol {display: none;}
 }
 @media only screen and (max-width: 1024px) and (min-width: 768px) and (orientation:portrait){
 body {overflow: scroll; height: 1510px;}
@@ -499,6 +500,7 @@ section .corobka12 {display: none;}
 section .corobka8 {display: none;}
 section .corobka3 {display: none;}
 section .corobka11 {display: none;}
+section .nol {display: none;}
 section .ramka2 {left: -501px; top: 855px;width: 300px;height: 300px;}
 section .ramka1 {width: 301px;left: -31px;}
 section .ramka1copy {width:300px;}
